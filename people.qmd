@@ -6,7 +6,8 @@ listing:
   - id: profile-john
     contents: "people/john/*.qmd"
     type: default 
-    image-height: 230px
+    image-height: 300px
+    image-align: left
     sort: "alphabetical"
   - id: profile-postdoc
     contents: "people/postdoc/*.qmd"
