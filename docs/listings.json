@@ -1,0 +1,24 @@
+[
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/john/john.html",
+      "/people/postdoc/alberto.html",
+      "/people/postdoc/brigette.html",
+      "/people/postdoc/eugenia.html",
+      "/people/postdoc/gal.html",
+      "/people/postdoc/loren.html",
+      "/people/postdoc/maria.html",
+      "/people/postdoc/morana.html",
+      "/people/postdoc/ruth.html",
+      "/people/postdoc/steve.html",
+      "/people/postdoc/sun.html",
+      "/people/postdoc/tara.html",
+      "/people/postdoc/tim.html",
+      "/people/phd/emer.html",
+      "/people/phd/sharad.html",
+      "/people/phd/template.html",
+      "/people/honours/honours.html"
+    ]
+  }
+]
