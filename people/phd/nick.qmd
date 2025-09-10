@@ -1,0 +1,79 @@
+---
+title: "Nick Hammerman"
+image: "nick.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: nick.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:n.hammerman@uq.net.au
+---
+
+Nick joined the lab in April of 2018. He is originally from the United States where he obtained his Bachelors in Marine Science at Roger Williams University and then completed his Masters in Biological Oceanography at the University of Puerto Rico, Department of Marine Sciences. His work mostly dealt with population genetics, coral/sponge species interactions and mesophotic reef ecology.
+
+---
+
+### Research interests
+
+Benthic composition and diversity, population genetics, mesophotic coral ecosystems, sponge/coral interactions, paleoecology.
+
+---
+
+### Current research
+
+The fossil record is an indispensable repository for understanding how organisms respond to their changing biotic and abiotic environment over multiple temporal scales. By studying the fossil record, scientists can observe long term changes in community structure in relation to climatic variability, both induced naturally and anthropogenically. Coral-related paleoecology is extremely insightful, since many Cnidaria secrete calcified skeletons at or near isotopic equilibrium with surrounding seawater, and thus can be used as proxies to reconstruct environmental conditions over geological time. In addition, their calcified skeletons are ideal for fossilization and often become embedded and preserved in the limestone bedrock they create, leaving behind a comprehensive mosaic of life histories and community composition. Given the current backdrop of climate change and deleterious phase shifts on coral reefs, paleoecological analysis of Holocene and Pleistocene reef deposits can provide historical and ecological baselines with which to compare modern coral reef decline. By comparing recent with past ecological histories, I aim to identify the ecological drivers that lead to coral phase shifts and to what degree coral reefs within the Red Sea in Saudi Arabia have changed over the past century. In situ surveys will be augmented with sediment cores to infer an even deeper perspective into the coral history of the region.
+
+---
+
+### Selected publications
+
+**Hammerman NM**, Roff G, Lybolt T, Eyal G, Pandolfi JM (2022). Unraveling Moreton Bay reef history: an urban high-latitude setting for coral development. Frontiers in Ecology and Evolution, Doi: 10.3389/fevo.2022.884850.
+
+**Hammerman NM**, Roff G, Ramirez-Rodriguez A, Leonard N, Staples TL, Eyal G, Rossbach S, Havlik MN, Saderne V, Zhao JX, Duarte CM, Pandolfi JM (2022). Reef accumulation is decoupled from recent degradation in the central and southern Red Sea. Science of the Total Environment, Doi: 1016/j.scitotenv.2021.151176.
+
+**Hammerman NM**, Ramirez-Rodriguez A, Staples TL, DeCarlo TM, Saderne V, Roff G, Leonard N, Zhao JX, Rossbach S, Havlik MN, Duarte CM, Pandolfi JM (2021). Variable response of Red Sea coral communities to recent disturbance events along a latitudinal gradient. Marine Biology, Doi: 1007/s00227-021-03984-y.
+
+**Hammerman NM**, Williams SM, Veglia AJ, Garcia-Hernández JE, Schizas NV, Lang JC (2021). Cladopsammia manuelensis sensu Cairns, 2000 (Order: Scleractinia): a new distribution record for Hispaniola and Puerto Rico. Cahiers de Biologie Marine 62, 1-10. Doi: 10.21411/CBM.A.6427875E.
+
+DeCarlo TM, Gajdzik L, Ellis J, Coker DJ, Roberts MB, **Hammerman NM**, Pandolfi JM, Monroe AA, Berumen ML (2020). Nutrient-supplying ocean currents modulate coral bleaching susceptibility. Science Advances 6, eabc5493. Doi: 10.1126/sciadv.abc5493.
+
+Weil E*, **Hammerman NM***, Becicka R, Cruz-Motta JJ (2020). Growth dynamics in Acropora cervicornis and prolifera in southwest Puerto Rico. PeerJ 8, e8435. Doi: 10.7717/peerj.8435.
+
+Bongaerts P, Perez-Rosales G, Radice VZ, Eyal G, Gori A, Gress E, **Hammerman NM**, Hernandez-Agreda A, Laverick J, Muir P, Pinheiro H, Pyle R, Rocha L, Turner JA, Booker R (2019). Mesophotic.org: a repository for scientific information on mesophotic ecosystems. Journal of Biological Databases and Curation. Doi: 10.1093/database/baz140.
+
+Garcia-Hernandez JE, **Hammerman NM**, Cruz-Motta JJ, Schizas NV (2019). Associated organisms inhabiting the calcareous sponge Clathrina lutea in La Parguera, Puerto Rico. Caribbean Journal of Science 49, 239-254. Doi: 10.1101/596429.
+
+Rodriguez-Ferrer G, Reyes R, **Hammerman NM**, Garcia-Hernández JE (2019). Cetacean sightings in Puerto Rican waters: including the first underwater photographic documentation of a minke whale (Balaenoptera acutorostrata). Latin American Journal of Aquatic Mammals 13, 26-36. Doi: 10.5597/lajam00246.
+
+Veglia AJ, **Hammerman NM**, Rivera-Vicéns RE, Schizas NV (2018). De novo transcriptome assembly of the coral Agaricia lamarcki (Lamarck’s sheet coral) from mesophotic depths in southwest Puerto Rico. Marine Genomics 41, 6-11. Doi: 10.1016/j.margen.2018.08.003.
+
+Garcia-Hernández JE, Sanchez PJ, **Hammerman NM**, Schizas NV (2018). Fish, coral, and sponge assemblages associated with altiphotic and mesophotic reefs along the Guánica Biosphere Reserve continental shelf edge, southwest Puerto Rico. Frontiers in Marine Science 5, 1-21. Doi: 10.3389/fmars.2018.00303.
+
+Veglia AJ, **Hammerman NM**, Rivera Rosaly CR, Lucas M, Galindo- Estronza A, Corgosinho PH, Schizas NV (2018). Characterizing population structure of coral-associated fauna from mesophotic and shallow habitats in the Caribbean. Journal of the Marine Biological Association of the United Kingdom 99, 619-629. Doi: 10.1017/S0025315418000413.
+
+**Hammerman NM**, Rivera-Vicens RE, Galaska MP, Weil E, Appeldoorn RS, Alfaro M, Schizas NV (2017). Population connectivity of the plating coral, Agaricia lamarcki from southwest Puerto Rico. Coral Reefs 37, 183-191. Doi: 10.1007/s00338-017-1646-x.
+
+**Hammerman NM**, Garcia-Hernandez JE (2016). The sponge Xestospongia muta offers shelter to the stony coral Madracis auretenra (Northwest Puerto Rico). Marine Biodiversity 47, 57-58. Doi: 10.1007/s12526-016-0574-2.
+
+*Grants and Awards*
+
+Paleoecology Society G. Arthur Cooper Student Research Award, Spring 2019
+
+Moreton Bay Research Station Sibelco Scholarship, 2018-2019
+
+UQ Research Training Scholarship, 2018-2022
+
+*Tutoring and Activities *
+
+Tutor for UQ Marine Field Course (MARS2005), October 2019
+
+Co-Coordinator and presenter for UQ Marine Biodiversity Roadshows, October 2018- Present
+
+Content editor for the website marinepalaeoecology.org, May 2018- Present
+
+Featured on mesophotic.org as a behind the science editorial, March 2018
+
+Content editor for the website mesophotic.org, March 2018- Present

@@ -1,0 +1,24 @@
+---
+title: "Maria Gomez-Cabrera"
+image: "default.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: default.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:klegomez@uq.edu.au
+    - icon: globe
+      text: UQ Profile
+      href: https://environment.uq.edu.au/profile/25482/k-le-gomez-cabrera
+---
+
+Maria Gomez-Cabrera is a senior research fellow who also worked as the Marine Palaeoecology lab manager.
+
+---
+
+### Research interests
+
+Historic ecology – Genetic studies

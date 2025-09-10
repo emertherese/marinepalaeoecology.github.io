@@ -1,0 +1,22 @@
+---
+title: "Claire Reymond"
+image: "claire.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: claire.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:claire.reymond@sydney.edu.au
+    - icon: globe
+      text: Website
+      href: https://grgusyd.org/claire-reymond/
+---
+
+### Current research
+
+*Historical ecology and experimental biology of foraminifera from the inshore Great Barrier Reef, Australia*
+
+This thesis focuses on historical patterns in community structure, present effects of nutrification, and future consequences of ocean acidification and nutrification on photosymbiont-bearing benthic foraminifera from the Great Barrier Reef (GBR), Australia. In the initial section of my thesis I investigated the natural range of variability in community structure of inshore benthic foraminiferal communities adjacent to the Burdekin River throughout the last millennium. Secondly, I examined the growth response of Marginopora vertebralis (a large photosymbiont-bearing foraminifera) to increase terrestrially derived nitrogen and phosphate under both field and laboratory conditions along a known water quality gradient within the Whitsunday Islands, GBR. Thirdly, I investigated the effects of both high nutrients and lowered pH (and their interaction) on M. vertebralis growth and productivity using projected scenarios from the Intergovernmental Panel on Climate Change (IPCC). In summary, inshore reef ecosystems, particularly those adjacent to major river runoff, are vulnerable to increased nutrification and sedimentation. The resultant spatial gradients in water quality provide an ideal natural experiment to assess the ecology and physiology of benthic foraminifera. In addition to declining water quality, the increase in atmospheric carbon dioxide is predicted to have major impact on marine calcifying organisms such as foraminifera. Awareness of the natural variability of past community structure enables the understanding of baselines to assess the ecological and physiological response to present day and future scenarios. As foraminifera are a well-established biological indicator of ecological status, the assessment of past benthic foraminiferal communities provides strong evidence for community persistence. The host and algae physiology argues that reduced nutrient runoff can have beneficial outcomes for the growth success of benthic photosymbiont-bearing M. vertebralis. Furthermore, the additive effect of nutrification and climate change may hinder future skeletal growth and photosynthetic productivity. In conclusion, high levels of similarity were observed in benthic foraminifera communities over a centennial to millennial timescale. The contrast in community structure between sites is evidently due to differences in water quality and supports the idea that photosymbiotic species hold an advantage in oligotrophic water compared to water with high terrestrial runoff. However, the advantage of harbouring photosymbionts appears to be compromised with close proximity to river run off and under future scenarios of ocean acidification. Therefore, shifts in functional abundance may occur when photosymbiosis becomes less advantageous as physiochemical conditions change.

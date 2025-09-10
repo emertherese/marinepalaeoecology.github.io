@@ -1,0 +1,98 @@
+---
+title: "Chelsea Korpanty"
+image: "chelsea.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: chelsea.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:ckorpanty@marum.de
+    - icon: globe
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=UnZrYvgAAAAJ&hl=en
+---
+
+### Education
+
+PhD Biological Sciences – The University of Queensland, Australia
+
+MSc Geology – University of North Carolina Wilmington, USA
+
+BA Geology – Cornell College, USA
+
+BA Studio Art – Cornell College, USA
+
+---
+
+### Research interests
+
+Temporal and spatial trends in biodiversity (compositional, functional) and ecological assembly
+
+(Paleo)climate – (paleo)ecology relationships
+
+Biogeographic dynamics of fossil coral assemblages in relation to climate change
+
+Assessing the impact of anthropogenic stresses on marine environments and invertebrates
+
+Taphonomy and time-averaging of marine faunal assemblages
+
+---
+
+### Current research
+
+*Ecological Dynamics of Pleistocene reef corals*
+
+In response to the interaction of diverse natural and anthropogenic influences, modern ecosystems are experiencing novel changes in assemblage composition, distribution, and functionality. Predicting and managing for such changes requires a long-term ecological perspective of ecosystem variability and adaptability. As an ecological archive of geohistorical data, the fossil record provides this temporal perspective. Therefore, using the fossil record, this project tested hypotheses related to the timing, trends, and drivers of ecosystem development, assemblage composition, and species distributions of scleractinian corals during the Middle – Late Pleistocene. This time interval is significant because it represents a time when the Earth’s climate was in a state of transition and environmental change.
+
+The Middle – Late Pleistocene (~1.0 – 0.01 Ma) climate is characterized by the intensification of cyclic oscillations between glacial (cool, low sea level) and interglacial (warm, high sea level) intervals. The fossil record, preserving a long-term dataset of coral reef communities composed of extant species, reveals that reef corals have persisted throughout the Pleistocene despite these multiple dramatic climate fluctuations, some of which are similar in magnitude to modern climate change. Although it provides a valuable ecologic resource, the Early – Late Pleistocene history of coral reef ecology remains largely unexplored, particularly in relation to climate changes during this critical period of reef expansion, and persistence, into modern reef ecosystems.
+
+Overall, this thesis identified long-term ecological trends in shallow-water coral ecosystem development and deep-water coral diversity and distribution in relation to local, regional, and or global environmental variables during the Middle – Late Pleistocene, when the amplitude of glacial-interglacial cycles were intensifying into the modern climate regime. These results provide new insights to the natural variability of coral ecosystems and their capacity to respond to environmental conditions or changes operating on local to global scales. Such knowledge may improve our predictions about the future of coral ecosystems and their ability to cope with current and anticipated environmental changes.
+
+Supervisors: Prof John M. Pandolfi (UQ), Dr Kevin Welsh (UQ)
+
+---
+
+### Selected publications
+
+Christensen, B., et al. and **Expedition 356 Scientists**. 2017. Indonesian Throughflow drove Australian climate from humid Pliocene to arid Pleistocene. Geophysical Research Letters 44: 6914–6925. doi: 10.1002/2017GL072977.
+
+Groenveld, J., et al. and **Expedition 356 Scientists**. 2017. Australian shelf sediments reveal shifts in Miocene Southern Hemisphere Westerlies. Science Advances 3 (5): e1602567.
+
+Mihaljević, M., **Korpanty, C.**, Renema, W., Welsh, K., Pandolfi, J.M. 2017. Identifying patterns and drivers of coral diversity in the Central Indo-Pacific marine biodiversity hotspot. Paleobiology. doi: 10.1017/pab.2017.1
+
+DeVleeschouwer, D., et al., and **Expedition 356 Scientists**. 2017. Quantifying K, U, and Th contents of marine sediments using shipboard natural gamma radiation spectra measured on DV JOIDES Resolution. Geochemistry, Geophysics, Geosystems. doi: 10.1002/2016GC006715.
+
+Gallagher, S.J., Fulthorpe, C.S., Bogus, K., and **Expedition 356 Scientists**. 2017. Expedition 356 Preliminary Report: Indonesian Throughflow. International Ocean Discovery Program. http://dx.doi.org/10.14379/​iodp.pr.356.2017
+
+Renema, W., Pandolfi, J.M., Kiessling, W., Bosellini, F.R., Klaus, J.S., **Korpanty, C.**, Rosen, B.R., Santodomingo, N., Wallace, C.C., Webster, J.M., Johnson, K.G., 2016. Are coral reefs victims of their own past success? Science Advances 2: e1500850.
+
+**Korpanty, C.**, Kelley, P., 2014. Molluscan live-dead agreement in anthropogenically stressed seagrass habitats: siliciclastic versus carbonate environments. Palaeogeography, Palaeoclimatology, Palaeoecology 410, 113 – 125.
+
+*Conference Proceedings*
+
+**Korpanty, C.**, Gischler, E., Pelletier, B., Welsh, K., Pandolfi, J.M., 2016, Biogeographic variability and ecological dynamics of Middle – Late Pleistocene reef corals. Geological Society of America Abstracts with Programs 48 (7), doi: 10.1130/abs/2016AM-282430.
+
+**Korpanty, C.**, Potts, D., Pandolfi, J., Ecological assessment of a Late Miocene coral assemblage near Rowley Shoals, Roebuck Basin, Western Australia. Australian Earth Sciences Convention 2016. Abstract ID: 492.
+
+**Korpanty, C.**, Gischler, E., Cabioch, G., Pelletier, B., Payri, C., Butscher, J., Pandolfi, J., Ecological dynamics of reef corals across the Middle Pleistocene Climate Transition. International Coral Reef Symposium 2016. Abstract ID: 28287.
+
+Renema, W., Pandolfi, J., Kiessling, W., **Korpanty, C.**, Santodomingo, N., Wallace, C., Webster, J., Johnson, K., Are coral reefs victims of their own past success? International Coral Reef Symposium 2016. Abstract ID: 29241.
+
+Cronin, K., Kelley, P., Dietl, G., **Korpanty, C.**, Visaggi, C., Parnell, B., 2014. Comparing quantitative techniques for evaluating live-dead agreement in an intertidal habitat in North Carolina. Geological Society of America Abstracts with Program 46 (6), 137.
+
+**Korpanty, C.**, Kelley, P., 2013. Live-dead fidelity of molluscan assemblages in anthropogenically impacted seagrass environments, North Carolina. Geological Society of America Abstract with Program 45(2).
+
+**Korpanty, C.**, Kerr, J., Stanford, S., Tedick, A., Kelley, P., Dietl, G., 2013. Fidelity of molluscan life and death assemblages: a five-year study to assess the impact of anthropogenic pressures on a North Carolina tidal flat. Geological Society of America Abstracts with Program 45 (2).
+
+Kelley, P., Albritton, C., Kerr, J., **Korpanty, C.**, Tedick, A., Umling, N., Dietl, G., 2013. Diversity and ecological structure of the Canepatch Formation, Upper Pleistocene, Horry County, South Carolina. Geological Society of America Abstracts with Program 45 (2).
+
+Greenstein, B., Pandolfi, J., **Korpanty, C.**, 2012. Historical context for the decline of Caribbean coral reefs. International Coral Reef Symposium 2012.
+
+**Korpanty, C.**, Visaggi C., Parnell, B., Kelley, P., Dietl, G., 2012. Fidelity of molluscan life and death assemblages: a four-year study to assess the impact of anthropogenic pressures on a North Carolina tidal flat. Geological Society of America Abstracts with Program 44 (4), 16.
+
+**Korpanty, C.**, Greenstein, B., 2011. Efficacy of the Curaçao Marine Park: A Pleistocene Perspective. Geological Society of America Abstracts with Program 43 (1), 68 and 43 (5), 501.
+
+**Korpanty, C.**, Greenstein, B., 2011. Efficacy of the Curaçao Marine Park: A Pleistocene Perspective. Cornell College Student Research Symposium.

@@ -4,7 +4,6 @@
 website:
   title: "Marine Palaeoecology Lab"
   description: "Professor John Pandolfi's lab at The University of Queensland, Magandjin"
-  image: images/logo-full.png
   
   favicon: images/logo-profile-zoom.png
   
@@ -16,7 +15,7 @@ website:
     # your sub-pages
     left:
       - text: "Research"
-        href: research/index.qmd
+        href: research.qmd
       - text: "People"
         href: people.qmd
       - text: "Publications"
@@ -30,7 +29,7 @@ website:
         aria-label: email
         href: "mailto:j.pandolfi@uq.edu.au"  
       - icon: github
-        href: https://github.com/marine-palaeo-lab
+        href: https://github.com/marinepalaeoecology/marinepalaeoecology.github.io
   
   
 

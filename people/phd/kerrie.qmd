@@ -1,0 +1,31 @@
+---
+title: "Kerrie Fraser"
+image: "kerrie.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: kerrie.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:k.fraser6@uq.edu.au
+---
+
+### Research interests
+
+- conservation of threatened species
+- management of marine protected areas
+- fisheries management
+
+---
+
+### Current research
+
+*Australia’s marine protected areas – Evaluating the impacts and effectiveness of conservation policy and management intervention on marine species and habitats*
+
+Anthropogenic threats to marine biodiversity continue to increase (Edgar et al. 2008; Guarderas et al. 2008) and despite much effort being expended, many species are still at risk and habitats in decline (Taylor et al. 2011). To optimise persistence and preservation of ocean biodiversity and mitigate these threats, a number of approaches are used (Devillers et al. 2014; Hays et al. 2014). Most important of these are marine protected areas (MPAs); regarded as a long-term strategy and policy tool in conserving marine biodiversity and ecosystem function (Coleman et al. 2013; Cvitanovic et al. 2013; Grorud-Colvert et al. 2014). Nonetheless, seldom are decisions regarding MPA designation made on the basis of scientific and biological considerations only (Allison et al. 1998; Roberts 2000; Joppa & Pfaff 2009; Dulvy 2013; Devillers et al. 2014). The influence of many political and socio-economic goals and constraints has biased designation of MPAs, as decision makers attempt to minimise costs and impacts on resource users (Edgar et al. 2008; Devillers et al. 2014). Furthermore, there is an identified gap between conservation theory and practice, and scientific uncertainty about whether conservation objectives are being achieved or interventions effective (Pullin & Knight 2001; Lisbon de Loma et al. 2008; Miteva et al. 2012). The evidence base for the effectiveness of MPAs in conserving biodiversity is limited, with few existing MPAs critically evaluated for their current or future biological impacts (Ferraro & Pattanayak 2006; Miteva et al. 2012).
+
+My research firstly aims to examine to what extent MPAs, through their use as a policy and strategy tool, integrates with other international, national and state marine policy and legislation, and conservation initiatives such as threatened species recovery plans, to support and conserve our most vulnerable species. Secondly, I aim to assess the chronological expansion of MPA systems, in Australia and other countries, and appraise their “residual bias”, i.e., bias in their designation to areas least valuable for extractive uses such as oil and gas exploration, and fisheries. This research will also determine the impact of residual bias in Australia’s marine reserve system on species of conservation concern. Finally, I aim to determine how best to evaluate the biological impacts of MPAs, develop a framework for use in this process, and determine what evidence is needed to support the effectiveness of conservation interventions, such as no-take zones within MPAs.
+
+Supervisors: Prof John M. Pandolfi (UQ) & Prof Bob Pressey (JCU)

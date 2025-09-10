@@ -1,0 +1,23 @@
+---
+title: "Ben Grier"
+image: "ben.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: ben.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:b.grier@uq.net.au
+---
+
+Ben joined the lab at the start of 2023 as an honours student after completing a Bachelor of Science majoring in Marine Biology. Interested in many areas of ecology and climate change research, his project aims to assess the extent of climate risk marine fish species are experiencing in Australia. In his spare time Ben loves getting out into nature and on the water, snorkelling, kayaking and hiking. He also enjoys getting involved in citizen science projects and university societies.
+
+---
+
+### Honours project
+
+*Assessing the extent of climate risk for marine fish species in Australasia*
+
+Climate change is affecting species at individual, population, and species levels, and understanding a species’ risk is important for predicting possible responses and impacts. This study aims to use a variation of environmental niche modelling to understand suitable and potentially hazardous conditions for a species, allowing for different risk levels to be quantified. This investigation will generate standardised risk scores that can inform fisheries industry, management, and conservation at relevant spatial scales such as genetic populations, stocks and aquaculture sites.

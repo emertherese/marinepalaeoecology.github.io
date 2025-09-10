@@ -1,0 +1,23 @@
+---
+title: "Sarah Hampson"
+image: "sarah.jpeg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: sarah.jpeg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:s.hampson@uq.net.au
+---
+
+I started my Honours research with the Marine Paleoecology lab in August 2022, aiming to investigate the emergence of ecological novelty in global freshwater fish communities. Before this, I completed a dual degree in Ecology, German, Japanese, social science, and international relations – a truly wild mix! I often describe myself as a generalist, as I love branching out into different fields. As such, I have had many unique opportunities, including working in the engineering sector for Boeing over the last two years. I currently am a tutor and lab technician for the Faculty of Science. Alongside this I am involved in a student-staff partnership looking to improve the online teaching and learning environment for first year science students. If, and when I have time spare, I enjoy hiking with my cat Murphy (pictured).
+
+---
+
+### Honours project
+
+*The emergence of taxonomic and functional novelty in global freshwater fish communities through the Anthropocene*
+
+Anthropogenic pressures continue to impact and transform ecological systems. In response, ecological communities are shifting towards unprecedented compositions, resulting in ecological novelty. Typically, novelty is studied based on taxonomic changes, whilst functional trait-based changes are largely ignored. My proposed study will apply a modern quantitative detection framework to a contemporary time series database to detect taxonomic and functional novelty in freshwater fish communities on a global scale. With this, I aim to better understand how trait changes contribute to novelty and determine whether considering community-level trait changes is beneficial for improving our understanding of ecological novelty.

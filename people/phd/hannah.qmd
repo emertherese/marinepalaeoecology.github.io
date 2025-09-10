@@ -1,0 +1,67 @@
+---
+title: "Hannah Markham Summers"
+image: "hannah.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: hannah.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:h.markham@uq.edu.au
+    - icon: globe
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Hannah_Markham/
+---
+
+### Education
+
+Masters (MSc) in Tropical Coastal Management from Newcastle University, UK (Distinction)
+
+Masters (MSc) in Aquatic Biology & Resource Management from Exeter University, UK (Distinction)
+
+Bachelors Degree (BSc) in Marine Biology from Swansea University, UK (Upper Second Class)
+
+---
+
+### Research interests
+
+- Historical Reef Ecology
+- Anthropogenic influences on tropical marine ecosystems including: coral reef systems, mangrove stands and seagrass beds
+- The effects of ocean acidification on coral reef ecosystems
+- Phase-shifting and benthic dynamics within coral reefs ecosystems
+- The stability and resilience of coral reef ecosystems, with particular reference to bleaching events and the buffering effects of sedimentation
+- The effect of anthropogenic influence on coastal watersheds
+
+---
+
+### Current research
+
+*Long-term ecological dynamics along a gradient of anthropogenic activity on the inshore Great Barrier Reef*
+
+The aim of my PhD research is to reconstruct historical community composition of coral assemblages in the Wet Tropics region of the GBR in order to determine a baseline prior to European colonisation of the Queensland Coastline (pre-1860). By examining this baseline in the context of palaeo-climate and water quality, the community responses to disturbance events can be determined and detached from the effects of chronic anthropogenic pressure by comparing pre and post 1860.   Palaeoecological reconstructions across centennial timescales will consist of fossil coral assemblages taken using cores extracted from the reef matrix. These historical assemblages will then be compared to comprehensive assessments of live reef assemblages in order to provide a modern context for comparison with palaeoecological baselines for the region.
+
+The overall goal of this project is identify how chronic anthropogenic stressors, predominantly water quality, have affected the community structure of the inshore reefs in the wet tropics since European colonisation of the Queensland coastline.
+
+---
+
+### Professional associations
+
+Marine Conservation Society
+British Sub Aqua Club
+British Ecological Society
+Divers Alert Network
+Statistical Society of Australia
+Society for International Development
+Marine Biological Association of the UK
+International Coral Reef Society
+Australian Association Marine Science
+
+---
+
+### Selected publications
+
+**Markham, H.L** and Browne, N.K. (2007). Baseline Survey Protocol (BSP). In: Pollock, N.W. and Godfrey, J.M. (eds.) Diving for Science 2007 Proceedings of the 26th American  Association of Underwater Science Symposium (AAUS), Dauphin Island, AL. 2007; 13-22.
+
+**Markham, H.L** and Browne, N.K. (2007). Reef Status Protocol (RSP) – A prognostic reef survey methodology, rapid yet comprehensive. In: Pollock, N.W. and Godfrey, J.M. (eds.) Diving for Science 2007 Proceedings of the 26th American Association of Underwater Science Symposium (AAUS), Dauphin Island, AL. 2007; 189-95.

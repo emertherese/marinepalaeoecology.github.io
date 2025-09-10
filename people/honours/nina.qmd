@@ -1,0 +1,23 @@
+---
+title: "Nina Clark"
+image: "nina.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: nina.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:nina.clark@uq.edu.au
+---
+
+Nina joined the lab at the end of 2018 in a volunteer capacity working with Karin Zwiep on her aeDNA project. At the end of 2019 she completed her Bachelors of Science and Arts at the University of Queensland where she majored in Zoology, Film & TV, and Writing. She is currently doing her honours on the effect of water quality on bioerosion of corals focusing on the Frankland Islands in the Great Barrier Reef. She is interested in both marine and terrestrial life and considers science communication a vital part of her career.
+
+---
+
+### Honours project
+
+*Diversity and abundance of coral bioeroders across spatial and temporal gradients in water quality on the Great Barrier Reef*
+
+Since European colonisation of Queensland, the Great Barrier Reef (GBR) has been plagued with multiple external pressures. Modification of coastal habitats and intense agriculture resulted in increased runoff into adjacent rivers and estuarine waterways, subsequently polluting the GBR. This agricultural waste has caused eutrophication and terrigenous sedimentation, resulting in decreased water quality. In response to this, coral reefs have undergone rapid degradation. This project aims to investigate whether bioeroders have increased in abundance and diversity, both spatially and temporally, across a water quality gradient on the GBR, relative to anthropogenic perturbations. We expect to find that abundance and diversity of bioeroders increased with decreasing water quality, both through time as a result of European colonisation and across space as a result of nearshore proximity.

@@ -1,0 +1,23 @@
+---
+title: "Kirsten Golding"
+image: "kirsten.jpeg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: kirsten.jpeg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:k.golding@uq.net.au
+---
+
+Kirsten is currently completing her honours within a Bachelor of Advanced Science, where she is studying the hard substrate benthic communities in Quandamooka Sea Country (Moreton Bay). These communities, composed of algaes, corals and other invertebrates, are subject to significant stress from pollution, flooding, and warm water events. Kirsten is investigating spatial and temporal trends in benthic community structure to better understand the vulnerability of these communities to stress. Kirsten is passionate about making science accessible to broader audiences. She likes to spend her spare time scuba diving and working on science communication projects.
+
+---
+
+### Honours project
+
+*Investigating the effects of the 2022 East Australian floods on coral Spatial & temporal dynamics in benthic community structure of highly disturbed Quandamooka Sea Country, SE Queensland Australia*
+
+Urbanisation and climate change are putting hard substrate benthic marine communities under stress. Understanding how these communities respond to stress is an important foundation for managing highly disturbed seascapes. My honours research aims to investigate the spatial and temporal trends in hard substrate benthic community structure, using seasonal photogrammetric sampling within Quandamooka (Moreton Bay) during a period with flooding and thermal disturbances. This will provide insight into community resilience throughout the bay which may be useful in guiding management decisions.

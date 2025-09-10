@@ -1,0 +1,35 @@
+---
+title: "Karin Zwiep"
+image: "karin.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: karin.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:k.zwiep@uq.edu.au
+---
+
+I’ve always been fascinated with marine ecosystems and larger underlying processes that cause systems to change and adapt. During my bachelor and master, I’ve been involved in research projects from crustacean-ciliate symbioses in Dutch waters to dinoflagellate cysts and pollen in the Mediterranean sapropels, as well as genetic diversity and connectivity of Symbiodinium in high latitude reefs along the Australian coast. I now combine much of my previous experience and interests in my PhD where I aim to add an extra dimension to the reconstruction of past coral reefs, their community structure and coral-algal phase shifts using ancient DNA.
+
+### Research interests
+
+Marine ecosystems, paleoecology, evolution, biogeography, genetics, algae, symbioses. 
+
+---
+
+### Current research
+
+Reconstructing past phase shifts in coral reef communities using ancient DNA.
+
+---
+
+### Selected publications
+
+**Zwiep KL**, Hennekam R, Donders TH, van Helmond NAGM, de Lange GJ, Sangiorgi F (2018). Marine Productivity, water column processes and seafloor anoxia in relation to Nile discharge during sapropels S1 and S3. Quaternary Science Reviews 200, 178-190.
+
+Wijnhoven, S., **Zwiep, K. L.**, & Hummel, H. (2018). First description of epizoic ciliates (Sessilida Stein, 1933) on Bathyporeia Lindström, 1855 (Peracarida, Amphipoda) and infestation patterns in brackish and marine waters. Crustaceana, 91(2), 133-152.
+
+Hennekam, R., Donders, T. H., **Zwiep, K.**, & de Lange, G. J. (2015). Integral view of Holocene precipitation and vegetation changes in the Nile catchment area as inferred from its delta sediments. Quaternary Science Reviews, 130, 189-199.

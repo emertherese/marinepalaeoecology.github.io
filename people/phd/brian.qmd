@@ -1,0 +1,22 @@
+---
+title: "Brian Beck"
+image: "brian.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: brian.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:brian.beck@noaa.gov
+    - icon: globe
+      text: Website
+      href: webaddress
+---
+
+### Current research
+
+*Ecology and paleoecology of Indo-Pacific coral reefs (Solomon Islands and Papua New Guinea)*
+
+Reef decline, with regional loss of diversity, abundance and habitat structure has been observed worldwide. Long-term baselines and understanding of reef processes through the use of paleoecological tools can provide vital understanding of the trajectories of modern reefs. The Coral Triangle within the Indo-Pacific region is identified as an area of both highest coral diversity and highest abundance of corals under extinction risk. This thesis examines the patterns of association between disturbance regimes, taxonomic composition, growth forms and taphonomy of two coral communities in the southeast corner of the Coral Triangle: the Solomon Islands and Papua New Guinea. The immediate impact of cyclones on coral communities is apparent and well studied. To better understand the potential implications of increasing cyclone frequency due to rising sea surface temperatures (SST), I examined coral community composition throughout a 49-year cyclone history in the Solomon Islands. Increasing cyclone frequency decreases the abundance of branching and massive corals and increases the abundance of encrusting corals, potentially causing a flattening of the reef. The reefs found in areas that received an intermediate number of cyclones had higher species richness than reefs in areas receiving either high or low numbers of cyclones. If currently predicted increases in SST result in increases in cyclone frequency, we predict a flattening of reef morphology. To determine the quality of the fossil record for baseline assessments, I compared fossil (Pleistocene and Holocene) with modern coral data using paleoecological reconstructions. The raised fossil and modern reefs of the Solomon Islands had similar growth form composition, but there was a significant difference in taxonomic composition between them. The similarity in growth form composition indicates a reduced impact from time averaging and taphonomic bias in these reefs, and the significant differences in taxonomic composition and several diversity measures are interpreted to be due to natural or anthropogenic change. The results of this study illustrate the usefulness of raised fossil reefs as indicators of past reef environments and as benchmarks with which to evaluate modern reefs, especially those in shallow fringing reef environments. To determine whether coral community composition influences reef accretion rate (net calcium carbonate production after bioerosion and off reef transport), I used community structure and radiometric age data from Holocene coral communities exposed in seven sites along the Huon Peninsula in Papua New Guinea. A geographic gradient was found in both the rates of accretion and the coral taxonomic composition. However, the abundances of the main framework building coral genera showed no significant relationship with accretion rates. This indicates that an environmental factor, possibly wave damage, is influencing the taxonomic composition and reef accretion rates separately. I found no evidence that taxonomic composition has direct control over reef accretion rates. I recommend that studies of both fossil and modern reef accretion should not focus solely on taxonomic composition or dominant framework builder as the primary driver of reef accretion rates. This thesis aids in understanding the role of coral taxonomic and growth form composition in regards to reef accretion, time and cyclone frequency. The results of this study help to: 1) develop a reef history in the Solomon Islands which has been identified as an area with high reef diversity that should be well managed; 2) explain the relationship between reef accretion and taxonomic composition, highlighting the importance of evaluating impacts on reef accretion at the community level; and 3) provide an understanding how cyclone frequency affects coral community structure in order to better predict the impact any increase in cyclone frequency will have on coral reefs.

@@ -1,0 +1,17 @@
+---
+title: "Paola G. Rachello-Dolmen"
+image: "paola.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: paola.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:pgrachellod@gmail.com
+---
+
+### Current research
+
+Historical changes in marine molluscan assemblages from subtropical Moreton Bay Marine Park, Queensland (Australia)

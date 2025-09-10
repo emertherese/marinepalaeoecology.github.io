@@ -1,0 +1,39 @@
+---
+title: "Nataly Gutierrez Isaza"
+image: "nataly.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: nataly.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:n.gutierrezisaza@uq.edu.au
+---
+
+I love coral reefs because they are ecosystems of great beauty, have high biodiversity, are priceless, and irreplaceable. These ecosystems also are very important due to their high biological diversity and productivity; in addition, they also provide a lot of services to human populations. Nevertheless, they are one of the most threatened ecosystems in the world; they do not escape from the negative effects of anthropogenic stressors (direct and indirect) and climate change.
+
+I want to work towards the conservation and recovery of coral reefs, and I am conscious that in order to implement effective management strategies it is necessary to improve our knowledge about these ecosystems. I have an interest in reef dynamics and competition between hard corals and macroalgae, the causes of coral reef degradation as well as the traits involved in coral species adaptation to novel environmental conditions imposed by climate change.
+
+---
+
+### Research interests
+
+Coral reefs, Competition coral-algae, Management of marine protected areas, Biodiversity, Fisheries management
+
+---
+
+### Current research
+
+Ecological stoichiometry of coral larvae along the latitudinal gradient in eastern Australia.
+
+---
+
+### Selected publications
+
+**Gutiérrez-Isaza, N.**, Espinoza-Avalos, J., León-Tejera, H.P. y González-Solís, D. (2015) “Endolithic community composition of Orbicella faveolata (Scleractinia) underneath the interface between coral tissue and turf algae” Coral Reefs (DOI 10.1007/s00338-015-1276-0).
+
+Blanco-Libreros, J.F., **Gutiérrez-Isaza, N.** (2014) “Leaf litter mass loss rates and associated fauna of tree species commonly used in neotropical riparian reforestation” Acta biológica Colombiana 19(1):89-98.
+
+**Gutiérrez-Isaza, N.**, Blanco-Libreros, J.F. (2010) “Red mangrove (Rhizophora mangle) health evaluated from allometric relationships of leaves, on the Gulf of Urabá, Colombian Caribbean coast” Book of extended abstracts XIV National Seminar on Science and Technology of the Sea (SENALMAR) Special Publications Series No. 21, 578 p.

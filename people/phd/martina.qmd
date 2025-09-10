@@ -1,0 +1,63 @@
+---
+title: "Martina de Freitas Prazeres"
+image: "martina.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: martina.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:martina.defreitasprazeres@jcu.edu.au
+---
+
+### Education
+
+PhD in Marine Sciences – The University of Queensland, Australia
+
+MSc in Biological Oceanography – Universidade Federal do Rio Grande – FURG, Brazil
+
+BSc in Marine Biology – Universidade Federal Fluminense, Brazil
+
+---
+
+### Research interests
+
+Benthic foraminifera ecology and palaeoecology, physiological and morphological responses to water quality and climate change, use of benthic foraminifera as bioindicators of water quality, molecular tools to detect cryptic species on the Great Barrier Reef, symbiont and microbial community across depth and shelf gradients
+
+---
+
+### Current research
+
+*Reef-dwelling foraminifera as tools for analysis of interactions between water quality and climate change effects: Palaeoecology and their biology at community, individual and cellular scales*
+
+Worldwide, coral reefs are experiencing significant declines in diversity driven by a combination of local and global anthropogenic impacts, such as ocean warming and acidification. Reef-dwelling species of benthic foraminifera are important marine calcifiers, and fundamental for reef sediment formation and accretion. They are sensitive to multiple anthropogenic and natural environmental stressors, and respond consistently to changes in environmental conditions. Understanding how benthic foraminifera populations respond to these changes, and their adaptation/acclimation potential, is crucial for predicting the effects of ongoing global environmental change in local populations on the Great Barrier Reef.
+
+Here, I focus on the impacts of ocean warming, acidification and nitrification in the responses of reef-dwelling species using a multi-scale approach: biochemical, physiological and population scale. Specifically, I investigated: (1) how species of photosymbiont-bearing foraminifera with different calcification mechanisms (Amphistegina lessonii and Marginopora vertebralis) respond to changes in pH levels; (2) the effects of local habitat in shaping the responses of a photosymbiont-bearing species Amphistegina lobifera collected from distinct reef locations to changing conditions of temperature, light and nitrate levels; and (3) how the sensitivity of photosymbiont-bearing foraminifera to changes in water quality can ultimately be detected in past foraminiferal communities retrieved from reef-matrix cores.
+
+The effects of ocean acidification, warming and nitrification resulted in significant divergent responses, likely driven by types of calcification mechanism and adaptation to the local environment. Different light levels sparked a similar response across all populations tested, suggesting that the ability of photosymbiont-bearing foraminifera to regulate light exposure through cryptic behaviour is independent of their local habitat. Reduced water pH caused severe disruption to the growth and calcification process in A. lessonii, whereas M. vertebralis was able to inhibit or activate enzymes in order to survive at low pH levels. Elevated temperature and light levels induced oxidative stress in A. lobifera, likely related to photosynthesis in the endosymbionts. However, those individuals from variable environments were able to recover and avoid further cellular damage and mortality. Addition of nitrate induced bleaching and mortality in those populations adapted to oligotrophic conditions, but increased the activity of enzymes related to growth and calcification in A. lobifera individuals that experience seasonal pulses of nutrient input.
+
+Analysis of benthic foraminiferal communities over a 300 years period (from ~1701 to 2012) at inshore reefs of High and Russell Islands (central GBR) revealed that while both populations were currently dominated by heterotrophic taxa, this was not always the case. At Russell Island, the foraminiferal community showed a steady decline in photosymbiont-bearing taxa since the late 1800s, resulting in a shift from photosymbiont-bearing to heterotroph dominated in ~1950. In contrast, populations from High Island were always dominated by heterotrophic taxa, with a significant steady contribution of photosymbiont-bearing genera through time. This finding indicates that greater and more consistent volumes of terrestrial runoff over time occurred in this area compared to Russell Island. At Russell Island, the shift in favour of heterotrophic taxa was likely due to changes in the local water quality conditions. Runoff causes a reduction in light levels and higher amounts of organic matter and nutrients, benefiting heterotrophic feeding modes. Trace element/Ca (TE/Ca) ratios of foraminifera tests reflected the influence of terrestrial runoff over time, and resulting shifts in water quality. The recorded patterns of change in both community composition, and TE/Ca ratios, coincide with the introduction of industrialised farming around the Russell-Mulgrave River catchment, with a corresponding, and continued decline in water quality around High and Russell Islands.
+
+This study demonstrated that photosymbiont-bearing foraminifera are sensitive to localised declines in water quality, as well as the effects of global climate change, but those populations that are naturally adapted to variable conditions are able to acclimate to shifts in environmental conditions by regulating biochemical functions within and above their threshold of tolerance. As a result, foraminifera populations from inshore reefs that are chronically subjected to inputs of terrestrial runoff are able to persist through time, whereas populations adapted to more stable, oligotrophic conditions are likely to experience shifts in species composition, from communities dominated by photosymbiont-bearing taxa, to communities abundant in heterotrophic/stress-tolerant species.
+
+Supervisors: Prof John M. Pandolfi (UQ), Prof Jian-xin Zhao (UQ) & Dr Sven Uthicke (AIMS)
+
+---
+
+### Selected publications
+
+**Prazeres M**, Uthicke S, Pandolfi JM. 2016. Changing light levels induce photo-oxidative stress and alterations in shell density of Amphistegina lobifera (Foraminifera). Marine Ecology Progress Series, doi: 10.335/meps11698.
+
+**Prazeres M**, Uthicke S, Pandolfi JM. 2016. Influence of local habitat on the physiological responses of large benthic foraminifera to temperature and nutrient stress. Scientific Reports 6:21936.
+
+**Prazeres M**, Uthicke S, Pandolfi JM. 2015. Ocean acidification induces biochemical and morphological changes in the calcification process of large benthic foraminifera. Proceedings of the Royal Society B 282: 20142782.
+
+Abujamara LD, **Prazeres MF**, Borges VD, Bianchini A. 2014. Influence of copper pre-exposure on biochemical responses of the sea anemone Bunodosoma cangicum to changes in oxygen availability. Comparative Biochemistry and Physiology Part C – Toxicology & Pharmacology 162: 34-42.
+
+**Prazeres MF**, Martins SE, Bianchini A. 2012. Assessment of water quality in coastal waters of Fernando de Noronha Archipelago, Brazil: Biomarkers analysis in Amphistegina lessonii. Journal of Foraminiferal Research 42, 56-65
+
+**Prazeres MF**, Martins SE, Bianchini A. 2011. Biomarkers response to zinc exposure in the symbiont-bearing foraminifer Amphistegina lessonii (Amphisteginidae, Foraminifera). Journal of Experimental Marine Biology and Ecology 407, 116-121
+
+Barbosa CF, **Prazeres MF**,  Ferreira BP, Seoane JCS. 2009. Foraminiferal assemblage and reef check census in coral reef health monitoring of East Brazilian margin. Marine Micropaleontology 73, 62-69

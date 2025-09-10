@@ -1,0 +1,44 @@
+---
+title: "Mauro Lepore"
+image: "mauro.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: mauro.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:maurolepore@gmail.com
+    - icon: globe
+      text: Google Scholar
+      href: https://scholar.google.com.au/citations?hl=en&user=2h7e7g4AAAAJ
+---
+
+### Research interests
+
+I am interested in long-term ecosystem dynamics. Particularly, in disentangling natural from anthropogenic sources of variation in ecological and geomorphological attributes of coral reefs in the face of ongoing human-induced environmental change.
+
+---
+
+### Current research
+
+*Long term dynamics of coral reefs in the inshore southern Great Barrier Reef.*
+
+(a) To evaluate the suitability of a high latitude reef system to serve as a refugium for reef organisms escaping a warming ocean;
+
+(b) to test for equal vertical accretion rates through space, across local reef habitats, and through time, over millennial time-scales spanning environmental conditions that encompass those projected for the upcoming decades;
+
+(c) to test for persistent reef-building coral community composition across the mid-Holocene (8–4 ka), the late-Holocene (4–0 ka) and the modern (live coral), and to evaluate the relative importance of stochastic versus deterministic processes of community assembly.
+
+---
+
+### Selected publications
+
+Herrmann, M., Alfaya, J. E. F., **Lepore, M. L.**, Penchaszadeh, P. E., and Arntz, W. E., 2011, Population structure, growth and production of the yellow clam Mesodesma mactroides (Bivalvia: Mesodesmatidae) from a high-energy, temperate beach in northern Argentina: Helgoland Marine Research, v. 65, no. 3, p. 285-297.
+
+Herrmann, M., Alfaya, J. E. F., **Lepore, M. L.**, Penchaszadeh, P. E., and Laudien, J., 2009a, Reproductive cycle and gonad development of the Northern Argentinean Mesodesma mactroides (Bivalvia: Mesodesmatidae): Helgoland Marine Research, v. 63, no. 3, p. 207-218.
+
+Herrmann, M., **Lepore, M. L.**, Laudien, J., Arntz, W. E., and Penchaszadeh, P. E., 2009b, Growth estimations of the Argentinean wedge clam Donax hanleyanus: A comparison between length-frequency distribution and size-increment analysis: Journal of Experimental Marine Biology and Ecology, v. 379, no. 1-2, p. 8-15.
+
+**Lepore, M. L.**, Penchaszadeh, P. E., Alfaya, J. E. F., and Herrmann, M., 2009, Application of calcein for estimating growth of the yellow clam Mesodesma mactroides Reeve, 1854: Revista De Biologia Marina Y Oceanografia, v. 44, no. 3, p. 767-774.

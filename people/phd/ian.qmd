@@ -1,0 +1,62 @@
+---
+title: "Ian R. Butler"
+image: "ian.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: ian.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:ian.butler@uqconnect.edu.au
+    - icon: globe
+      text: Website
+      href: webaddress
+---
+
+### Education
+
+MSc in Biology (Marine Biology) – James Cook University
+
+BSc in Biology – James Cook University
+
+---
+
+### Research interests
+
+Palaeoecology of coral reefs, turbid reef environments, sediment impacts on reefs
+
+---
+
+### Current research
+
+Historical ecology of the coral reefs of Hervey Bay, Queensland
+
+---
+
+### Selected publications
+
+**Butler, I. R.**, B. Sommer, M. Zann, J-x Zhao and J. Pandolfi (2015) The cumulative impacts of repeated heavy rainfall, flooding and altered water quality on the high-latitude coral reefs of Hervey Bay, Queensland, Australia. Marine Pollution Bulletin 96:356-367.
+
+Martin, Tyson S. H., Andrew D. Olds, Kylie A. Pitt, Alana B. Johnston, **Ian R. Butler**, Paul S. Maxwell and Rod M. Connolly (2015) Connectivity, reserve performance and scaling across different seascapes. Marine Ecology Progress Series 527:157-165.
+
+Coppo, C., J. Brodie, **I. R. Butler**, J. Mellors and S. Sobtzick (2014) Status of the Coastal and Marine Assets in the Burnett Mary Region, Centre for Tropical Water and Aquatic Ecosystem Research, James Cook University: 88.
+
+**Butler, I. R.**, B. Sommer, M. Zann, J-x Zhao and J. Pandolfi (2013) The impacts of flooding on the high-latitude, terrigenoclastic influenced coral reefs of Hervey Bay, Queensland, Australia. Coral Reefs: 32(4): 1149-1163.
+
+**Butler, I. R.** (2013) The 2013 Mary River flood plumes: water quality in the Great Sandy Strait Ramsar site and adjacent coral reef areas. Report to the Burnett-Mary Regional Group.
+
+Loder, J., **Butler, I.**, Delaforce, A., Salmond, J., Trim, K., and Zann, M. (2012)  Reef Check Australia Fraser Coast Project: Establishing a baseline for long-term reef health monitoring using the Reef Check global protocol. Reef Check Foundation Ltd.
+
+Wakefield, W. and **Butler, I. R.** (2000)  Investigating Essential Fish Habitat for West Coast Groundfish  Abstracts: Mace P.M. (Ed) Proceedings of the 6th NMFS National Stock Assessment Workshop,  March 2000.
+
+**Butler, I. R.** (1998)  Beche-de-Mer Fishery in New Ireland Province, Papua New Guinea:  1997 Status Report.  Technical Report of the National Fisheries Authority, Port Moresby, Papua New Guinea.
+
+Benson, L.J., Goldsworthy, P. M., **Butler, I. R.** and Oliver, J. (Eds.) (1994)  Townsville Port Authority Capital Dredging Works 1993: Enviromental Monitoring Program. Townsville Port Authority, 238 pp.
+
+**Butler, I.R.**  (1994)  An Investigation Into What Constitutes Lethal Wounding in Acanthaster planci and an Assessment of the Effects of Regeneration on Gonad Production.  Masters Thesis, James Cook University Library, Townsville, Queensland, Australia.
+
+Kettle, B. and **Butler, I. R.** (1994)  A new approach to managing the environmental effects to dredging.  Abstracts: O. Bellwood (Ed), 6th Pacific Congress on Marine Science and Technology, July 1994.
+
+Sweatman, H. and **Butler, I. R.**(1993)  An Experimental Investigation of the Ability of Crown-of-Thorns Starfish to Survive Physical Damage.  Proceedings of the Crown of Thorns Workshop, Townsville, Queensland, Australia.

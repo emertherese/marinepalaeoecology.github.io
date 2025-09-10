@@ -1,0 +1,23 @@
+---
+title: "Joshua Wirth"
+image: "joshua.jpeg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: joshua.jpeg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:j.wirth@uq.net.au
+---
+
+Joshua completed his Bachelor of Science in late 2021, where he majored in Ecology. Following his interest in ecology, he joined the lab in early 2022 as an Honours student. In Joshua’s Honours research project, he examined potential changes in the extent of coral bleaching and algal coverage in Moreton Bay following the February 2022 Brisbane floods.
+
+---
+
+### Honours project
+
+*Investigating the effects of the 2022 East Australian floods on coral bleaching in Moreton Bay*
+
+I am an undergraduate student with an interest in ecology currently undertaking my Honours in Ecology and Conservation Biology with the Paleoecology Lab. In my Honours project, I am looking at the effects of flood-induced sedimentation from the 2022 Eastern Australia Floods on the extent of coral bleaching in Moreton Bay, Australia. To do this, I am using a combination of photogrammetry and environmental data from coral reefs across the Bay to determine where coral bleaching has occurred, and when it has occurred relative to the floods and the onset of anomalously higher temperature conditions.

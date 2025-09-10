@@ -1,0 +1,65 @@
+---
+title: "Sarah Buckley"
+image: "sarah.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: sarah.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:s.buckley2@uq.edu.au
+    - icon: globe
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Sarah-Buckley-14
+---
+
+### Research interests
+
+- Historical baselines for management of fisheries
+- The effects of anthropogenic influences on fisheries and marine ecosystems
+- Rapid appraisal techniques for the status of fisheries
+- Importance and quantitative uses of fisher knowledge
+- Conservation and management of spawning aggregations
+- Trophic cascades, tipping points, phase shifts and regime shifts
+
+---
+
+### Current research
+
+*Reconstructing ecological baselines: Historical changes in fisheries*
+
+Wild caught fisheries are declining worldwide and are facing unprecedented challenges due to increasing unsustainable levels of exploitation, destructive fishing practices, pollution and coastal development. However, without an understanding of historical ecological baselines, fisheries managers underestimate exploited fish population abundance and status.My research focuses on using historical, social and ecological techniques to provide baselines of former population sizes against which current populations can be benchmarked. This study will integrate long-term patterns of change in fisheries abundance and distribution, analysis of the relative impacts of resource user groups (commercial, recreational and Indigenous) and statistical models to identify whether exploited fish populations are managed at sustainable levels. Specifically this research aims to: 1) track the trajectory of a suite of Moreton Bay fin fisheries abundances since the Holocene; 2) reconstruct the history of the Australian east coast Spanish mackerel fishery as a specific case study to determine the relative impact of both commercial and recreational fishing sectors over time; and 3) assessing Kenya’s historically exploited coral reef fish species susceptibility to extinction.This project will be the first to provide a long-term reconstruction and baseline of exploited Queensland’s fish populations using an interdisciplinary approach. It will contribute to a broader understanding of fisheries and provide important baseline information for managers concerned about maintaining fishery resources at a sustainable level.
+
+---
+
+### Qualifications
+
+Academic Tutor – University of Queensland, Australia
+
+Seabird Research Assistant – Department of Conservation, New Zealand
+
+Canine Supervisor  – SPCA, New Zealand
+
+Fisheries Observer  – Ministry of Fisheries New Zealand
+
+Zoology Teacher – Seoul, South KoreaSarah driving
+
+Marine Researcher  – Irish and Celtic Seas, University College Cork
+
+Honours BSc in Zoology – University College Cork
+
+---
+
+### Selected publications
+
+Doyle, T. K., Houghton, J. D. R., **Buckley, S. M.**, Hays, G. C. & Davenport, J. The broad-scale distribution of five jellyfish species across a temperate coastal environment. Hydrobiologia 579, 29- 39 (2007).
+
+*Conference proceedings*
+
+**Buckley SM**, Thurstan RH, Pandolfi JM (2012) Unraveling the history of a spawning aggregation fishery: is Queensland’s fish and chip shop fish on the verge of collapse? Oceans Past IV Conference, Freemantle, Australia, November 2012
+
+Thurstan, RH, **Buckley, SM**, Pandolfi JM (2012) Reconstructing the historical ecology of Queensland’s snapper: the changing fortune of an iconic fishery. Oceans Past IV Conference, Freemantle, Australia, November 2012
+
+**Buckley, SM**, Thurstan, RH, Pandolfi JM (2012) Memories of fishing: gathering experiences of fishing during the 20th century. National Recreational Fishing Conference, Gold Coast, Australia, August 2012

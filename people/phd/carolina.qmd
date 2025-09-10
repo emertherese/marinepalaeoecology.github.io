@@ -1,0 +1,43 @@
+---
+title: "Carolina Chong-Montenegro"
+image: "carolina.png"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: carolina.png
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:c.chongmontenegro@uq.edu.au
+---
+
+Carolina is a marine fisheries ecologist focusing on historical fisheries of rare and threatened fish species. She received her bachelor’s degree in marine biology from ESPOL in Ecuador, where she studied the ecology and biology an endemic grouper of the Galápagos Islands, then received her master’s degree at the University of Bremen, Germany, where she studied the biology and fisheries of the Pacific goliath grouper in Colombia. Her work focuses on documenting the historical impact of fishing on vulnerable fish populations and aims to actively integrate local communities into the research process by apply interdisciplinary approaches for developing sustainable fisheries.
+
+---
+
+### Research interests
+
+Historical fisheries ecology, fisheries, stock assessment, marine conservation
+
+---
+
+### Current research
+
+Palaeobiological approach to fisheries ecology
+
+---
+
+### Selected publications
+
+**Chong-Montenegro, C.**, Kindsvater, H.K. (2022). Demographic consequences of small-scale fisheries for two sex-changing groupers of the Tropical Eastern Pacific. Frontiers in Ecology and Evolution.
+
+**Chong-Montenegro, C.**, Thurstan, R. H., Campbell, A. B., Cunningham, E. T., Pandolfi, J. M. (2021).Historical reconstruction and social context of recreational fisheries: the Australian East Coast Barramundi (Lates calcarifer). Fisheries Management and Ecology, 00, 1-13.
+
+Castellanos-Galindo, G. A., Robertson, D. R., Pacheco-Chaves, B., Angulo, A., & **Chong-Montenegro, C.** (2019). Atlantic Tarpon in the Tropical Eastern Pacific 80 years after it first crossed the Panama Canal. Reviews in Fish Biology and Fisheries, 29(2), 401-416.
+
+Castellanos‐Galindo, G. A., Chong‐Montenegro, C., Baos E, R. A., Zapata, L. A., Tompkins, P., Graham, R. T., & Craig, M. (2018). Using landing statistics and fishers’ traditional ecological knowledge to assess conservation threats to Pacific goliath grouper in Colombia. Aquatic Conservation: Marine and Freshwater Ecosystems, 28(2), 305-314.
+
+Salinas-de-León, P., Bertolotti, A., **Chong-Montenegro, C.**, Gomes-Do-Régo, M., & Preziosi, R. F. (2017). Reproductive biology of the Endangered white‑spotted sand bass Paralabrax albomaculatus endemic to the Galapagos Islands. Endangered Species Research, 34, 301-309.
+
+Baos, R., Castellanos‐Galindo, G. A., Chong‐Montenegro, C., Tompkins, P., & Zapata, L. A. (2016). Length–weight relationship of the Pacific goliath grouper, Epinephelus quinquefasciatus (Bocourt, 1868). Journal of Applied Ichthyology, 32(4), 727-728.

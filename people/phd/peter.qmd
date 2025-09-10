@@ -1,0 +1,43 @@
+---
+title: "Peter Waldie"
+image: "peter.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: peter.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:p.waldie@uq.edu.au
+---
+
+### Research interests
+
+Coral reef ecology, fisheries management, customary ownership systems, behavioural ecology and fish biology.
+
+---
+
+### Current research
+
+*Saving the undersea giants: ecosystem-based management of exploited brown-marbled grouper spawning aggregations in Papua New Guinea.*
+
+The ultimate goal of the project is the implementation of sustainable, ecosystem-based co-management of a population of brown-marbled grouper (listed as ‘Near Threatened’ on the IUCN red list) in Papua New Guinea. The population forms a large spawning aggregation, where hundreds of sexually mature individuals of this and two other charismatic species converge en-masse to participate in spectacular displays of courtship. In addition to their natural and aesthetic value, spawning aggregations are particularly valuable to local fisher communities, for both subsistence and income. Unfortunately, aggregations are also extremely vulnerable to overfishing, and slow to recover. Through unsustainable fishing and ineffective management, around 80% of studied spawning aggregations worldwide are in decline or have disappeared entirely, devastating local communities and coral reef ecosystems. This project will utilise new and existing partnerships, and proven scientific techniques, to fill vital knowledge gaps about adult movement patterns, larval replenishment, population demographics and local socioeconomic conditions to facilitate the sustainable management of this high-value, charismatic species.
+
+Supervisors: Dr Glenn Almany (James Cook University), Dr Joshua Cinner (JCU), Dr Richard Hamilton (The Nature Conservancy) & Prof John Pandolfi (UQ)
+
+---
+
+### Selected publications
+
+**Waldie PA**, Blomberg SP, Cheney KL, Goldizen AW, Grutter AS (2011) Long-Term Effects of the Cleaner Fish Labroides dimidiatus on Coral Reef Fish Communities. PLoS ONE 6(6): e21201. doi:10.1371/journal.pone.0021201
+
+Grutter AS, Rumney JG, Sinclair-Taylor T, **Waldie P**, Franklin CE (2011) Fish mucous cocoons: the ‘mosquito nets’ of the sea. Biol. Lett. 7(2) doi:10.1098/rsbl.2010.0916
+
+Clague GE, Cheney KL, Goldizen AW, McCormick MI, **Waldie PA** and Grutter AS (2011). Long-term cleaner fish presence affects growth of a coral reef fish. Biol. Lett. doi: 10.1098/rsbl.2011.0458
+
+*Conference Presentations*
+
+“Ecosystem-based fisheries management of exploited grouper spawning aggregations in Melanesia” (2012) Poster presentation to the International Coral Reef Symposium.
+
+”The effects of the cleaner wrasse, Labroides dimidiatus on the coral reef community” (2009) Seminar presentation to The International Congress of Ecology.

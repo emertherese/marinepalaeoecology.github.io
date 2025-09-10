@@ -1,0 +1,72 @@
+---
+title: "Carrie Sims"
+image: "carrie.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: carrie.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:c.sims@uq.edu.au
+---
+
+I am a PhD student under the supervision of Professor John Pandolfi (Marine Palaeoecology Lab), Associate Professor Margie Mayfield (Community Ecology Lab) and Dr Eugenia Sampayo (Marine Palaeoecology Lab).
+
+---
+
+### Research interests
+
+Coral reefs, community ecology, coral recruitment, biodiversity, symbioses, biogeography, dispersal, connectivity, evolution.
+
+---
+
+### Current research
+
+Coral reef structures support an incredible diversity of life and are often called “rainforests of the sea”. Just like rainforests, they have spurred decades of debates and theories among community ecologists to understand what promotes coexistence among apparently similar species and maintains such high levels of diversity. However, the theory for coral reef communities is largely lacking in comparison to its terrestrial counterparts.
+
+My PhD research aims to investigate a fundamental ecological theory, the Janzen-Connell Hypothesis, to highlight aspects that are increasingly being shown to be of importance in coral community ecology. Specifically the role of species interactions during coral recruitment.
+
+During my candidature, I have collaborated on a number of other studies or field research including:
+
+- National Bleaching Taskforce, subtropical coral bleaching 2016/2017 – surveys of mortality and recovery, co-author (paper under revision)
+- Coral community demographics of subtropical communities – annual surveys of tagged colonies, data collection, co-author
+- ARC Discovery Grant: An elemental hypothesis for sub-tropical refugia in reef corals – field assistance
+- Coral larval settlement under space limitation – field assistance, data collection, co-author (paper in prep)
+- Effect of cleaner fish on local ectoparasite populations of coral reefs, 12-year study – data collection (prior to candidature), co-author (paper under revision)
+- I have also been a councillor with the Australian Coral Reef Society for four years, and am currently serving my second term as Secretary.
+
+---
+
+### Selected publications
+
+Sampayo EM, Roff G, **Sims CA**, Rachello-Dolmen P and Pandolfi JM (2020) Patch size drives settlement success and spatial distribution of coral larvae under space limitation. Coral Reefs, 39: 387–396.
+
+Kim SW, Sampayo EM, Sommer B, **Sims CA**, Gómez‐Cabrera MC, Dalton SJ, Beger M, Malcolm HA, Ferrari R, Fraser N, Figueira WF, Smith SDA, Heron SF, Baird AH, Byrne M, Eakin CM, Edgar R, Hughes TP, Kyriacou N, Liu G, Matis PA, Skirving WJ and Pandolfi JM (2019) Refugia under threat: Mass bleaching of coral assemblages in high‐latitude eastern Australia. Global Change Biology, DOI: 10.1111/gcb.14772.
+
+Grutter AS, Blomberg, SP, Box S, Bshary R, Ho O, Madin EMP, McClure EC, Meekan MG, Murphy JM, Richardson MA, Sikkel PC, **Sims CA**, Sun D and Warner RR (2019) Changes in local free-living parasite populations in response to cleaner manipulation over 12 years. Oecologia, 190:783–797.
+
+**Sims CA**, Grutter AS, Huelsken T, Drew J, Blomberg S and Riginos C (2013) Cleaning up the biogeography of Labroides dimidiatus using phylogenetics and morphometrics. Coral Reefs, DOI 10.1007/s00338-013-1093-2.
+
+Litsios G, **Sims CA**, Pearman P, Wüest R, Zimmerman N and Salamin N (2012) Mutualism with sea anemones drives the adaptive radiation of clownfish. BMC Evolutionary Biology, 12:212.
+
+Wilson GDF, **Sims CA** and Grutter AS (2011) Toward a taxonomy of the Gnathiidae (Isopoda) using juveniles: the external anatomy of Gnathia aureamaculosa zuphea stages using scanning electron microscopy. Journal of Crustacean Biology, 31 (3), 509-522.
+
+---
+
+### Grants and awards
+
+**Holsworth Wildlife Research Endowment** (Ecological Society of Australia) 2018
+PhD international ecology conference attendance. Awarded: $2000
+
+**Holsworth Wildlife Research Endowment** (Ecological Society of Australia) 2017
+PhD scholarship funding field research which was undertaken at Heron Island Research Station. Awarded: $3560.
+
+**ACRS Conference** – runner-up Best Student Poster 2018
+
+**ACRS Conference** – Outstanding Student Talk 2017
+
+**Westpac Future Leaders Scholarship** 2016 – 2019
+PhD scholarship funding to cover: top-up stipend, conference and short-course attendance, publication and dissemination costs, equipment and consumables, 3-month international research experience and 9-month Leadership Development Program.
+Awarded: AU \$118,520 (of which $34,000 was for research costs)

@@ -1,0 +1,60 @@
+---
+title: "Tracy Lybolt"
+image: "tracy.JPG"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: tracy.JPG
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:tracylybolt@hotmail.com?cc=tracylybolt12@gmail.com 
+    - icon: globe
+      text: Coral Reef Studies
+      href: https://www.coralcoe.org.au/
+---
+
+Tracy and family recently escaped Florida and are happily established in Massachusetts. She’s still working with (the remnants of) Caribbean reefs, and is doing a lot more offshore wind work because renewable energy feels like better praxis than Caribbean reef ‘restoration’.
+
+---
+
+### Education
+
+PhD – University of Queensland
+
+MSc in Biology –  University of South Florida, USA
+
+BSc in Biology – University of South Florida, USA
+
+---
+
+### Research interests
+
+Ecology of marginal reef habitats, historical ecology, global climate change, land-use and anthropogenic stressors, implementation of research outcomes to policy, and resource recovery.
+
+---
+
+### Current research
+
+Causes of change in coastal ecosystems, past, present and future.
+
+---
+
+### Selected publications
+
+Yu K-F, Zhao J-x, Roff G, **Lybolt T**, Feng Y, Clark T, Li S (submitted) High-precision U-series ages of storm-transported coral blocks on Heron Reef (southern Great Barrier Reef) and their significance in interpreting periodic storm activities over last 100 years. Paleogeogr Paleoclimatol Paleoecol
+
+Mengerink K, Jackson JBC, Roady SE, McClenachan L, Hughes TP, Baum JK, Causey BD, Day J, Farrier D, Feuerstein A, Gullet W, Hoecevar J, Jacquet J, Johnson AE, Lang M, **Lybolt T**, Ozich C, Smith J, Smyth C, Wilmot D, Pandolfi JM (submitted) Improving Ocean Governance by Fulfilling Legal Obligations to Know and Use Historical Baselines. Front Ecol Environ
+
+Hart S, **Lybolt T**, Roff G, Beck B, Gomez Cabrera MdC, Clark T, Greben M, Narayan R, Welsh K, Pandolfi JM (submitted) Incorporating Ecological Baselines into Marine Natural Resource Management. Ecol Lett
+
+**Lybolt T**, Neil D, Zhao J, Feng Y, Yu K-F, Pandolfi J (2011) Instability in a marginal coral reef: the shift from natural variability to a human-dominated seascape. Front Ecol Environ 9:154-160 [output product of PhD thesis]
+
+Makowski C, Prekel SE, **Lybolt T**, Baron RM (2009) The Benthic Ecological Assessment for Marginal Reefs (BEAMR) Method. Journal of Coastal Research 25:515-522
+
+**Lybolt T**, Tate S (2008) Rapid changes in nearshore habitat: Is resource burial an appropriate measure of project impact? Shore & Beach 76:15-20
+
+Somerfield PJ, Jaap WC, Clarke KR, Callahan M, Hackett K, Porter J, **Lybolt T**, Tsokos C, Yanev G (2008) Changes in coral reef communities among the Florida Keys, 1996-2003. Coral Reefs:1-15
+
+Porter JW, Kosmynin V, Patterson KL, Porter KG, Jaap WC, Wheaton J, Hackett KE, **Lybolt T**, Tsokos CP, Yanev G, Marcinek D, Dotten J, Eaken D, Patterson M, Meier OW, Brill M, Dustan P (2002) Detection of coral reef change by the Florida Keys coral reef monitoring project. In: Porter JW, Porter KG (eds) The Everglades, Florida Bay, and coral reefs of the Florida Keys: An Ecosystem Sourcebook. CRC Press, Boca Raton, pp749-769

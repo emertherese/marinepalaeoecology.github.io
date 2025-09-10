@@ -8,22 +8,26 @@ listing:
     type: default 
     image-height: 300px
     image-align: left
+    max-description-length: 250
     sort: "alphabetical"
   - id: profile-postdoc
     contents: "people/postdoc/*.qmd"
     type: grid
     image-height: 230px
+    max-description-length: 100
     sort: "alphabetical"
   - id: profile-phd
     contents: "people/phd/*.qmd"
     type: grid
+    page-size: 24
     image-height: 230px
+    max-description-length: 100
     sort: "alphabetical"
   - id: profile-honours
     contents: "people/honours/*.qmd"
     type: grid
-    image-placeholder: "people/honours/group-photo.jpg"
     image-height: 230px
+    max-description-length: 100
     sort: "alphabetical"
 ---
 

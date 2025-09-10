@@ -1,0 +1,27 @@
+---
+title: "Kate Bromfield"
+image: "kate.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: kate.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:kate.bromfield@elementalgroup.com
+---
+
+### Current research
+
+*Evolutionary Dynamics of Indo – Pacific Reef Corals throughout the Neogene*
+
+The origin of marine biodiversity in the Indo-Pacific is poorly known. Faunal turnover in scleractinian reef corals has been hypothesised over the Miocene-Pliocene boundary (~5 Ma), in the Malay Archipelago. However, there is little information available on origination and extinction events in reef corals during the same period for the broader Indo-Pacific region. This is important because many species probably had a wider distribution than previously thought, and many more genera than has previously been estimated were probably present in the Indo-Pacific during the Neogene.
+
+Here I begin to fill the gap in our knowledge by reporting on the taxonomic composition and diversity of Neogene reef coral communities sampled from Indonesia (Salayar), Papua New Guinea (New Britain), and Fiji (Vanua Balavu). Sampling locations were chosen on their reported age, fossil content and preservation quality. Ages were refined using foraminiferal assemblages and Strontium 87/86 isotope ages of samples collected at the sampling locations. This dual approach confirms a middle Miocene to early Pleistocene age range for the collection.
+
+I described 155 species of reef forming corals collected across an Indo-Pacific longitudinal gradient. Twenty-two constitute new, extinct species from the genera Alveopora, Astreopora, Caulastrea, Cyphastrea, Echinopora, Euphyllia, Galaxea, Leptoria, Leptoseris, Madracis, Montipora, Platygyra, Symphyllia and Turbinaria. A further 42 taxa could not be assigned to species level due to poor preservation, but may well be additional new, extinct species.
+
+I uncovered a general pattern of coral turnover across the Indo-Pacific by investigating the degree to which coral communities (using both presence/absence and relative abundance of both coral species and genera) varied with water depth, time and geographical distribution. Coral communities were found to vary with global sea level and time. Thus global changes in sea level through time potentially drove extinction and origination in Indo-Pacific Neogene corals.
+
+Inverse Lyellian analysis indicates that of species present in the Miocene in New Britain, a mean of 41.8% are now extinct, possibly resulting from restricted flow of oceanic currents in that region. Indonesia (mean = 9.4%); and Fiji (mean = 6.6%) both had significantly lower proportions of extinct species. However, there is a decline in the number of extinct species found at any location from the middle Miocene (mean = 23.2%) to the early Pleistocene (mean = 1.8%). This study supports previously proposed models of an early Pliocene turnover event in Scleractinia in the Indo-Pacific.

@@ -1,0 +1,22 @@
+---
+title: "George Roff"
+image: "george.png"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: george.png
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:g.roff@uq.edu.au
+    - icon: globe
+      text: CSIRO Profile
+      href: https://people.csiro.au/R/G/george-roff
+---
+
+### Current research
+
+*Historical ecology of coral communities from the inshore Great Barrier Reef*
+
+Trajectories of decline have been described in coral reefs throughout the Indo-Pacific region, with long-term losses of abundance, diversity and habitat structure. Since European settlement of the Queensland coastline in the mid-18th century, widespread changes in land use have occurred within Great Barrier Reef (GBR) catchments (e.g. extensive land clearing, agriculture and grazing). Despite direct and indirect evidence indicating decline of inshore reefs, it has proven difficult to ascertain links between land use changes, terrestrial discharge, water quality and the decline of coral reefs at regional scales, and the contributions of anthropogenic influences to the disturbance regimes of inshore reefs remains highly controversial. This thesis uses palaeoecological reconstruction of coral assemblages and high-precision U-Series dating to examine changes in community structure of inshore coral reefs in the Palm Islands region across decadal and centennial scales. Comparisons of modern and historical coral assemblages provide evidence of a collapse of Acropora coral communities at Pelorus Reef in the early 20th Century. Fossil assemblages in an adjacent site at Pelorus provide further evidence of an extrinsic shift from historical Acropora assemblages to more sediment-tolerant corals in modern assemblages, a change without precedence in 800 years of record. Sediment cores (2-5m length) were extracted from Pandora and Havannah reefs to determine long-term rates of reef growth throughout the late Holocene. Computer Axial Tomography (CAT) scans of cores revealed a framework dominated by coral fragments, and U-Series dating of corals revealed rapid and continuous reef growth at both reefs throughout the last 1000 yrs. Comparisons of reef accretion (m ka-1) from cores with published accretion rates from early-mid Holocene inshore GBR reefs show that reef slope environments are now accreting at rates equal to and exceeding those of the last 8000 years. This result contradicts assumptions that inshore reefs are undergoing or have undergone natural trajectories of geomorphic decline. A bayesian approach to determine stability of coral communities from the Pandora and Havannah cores indicates that those coral communities have existed in stable states for upwards of 400yrs, punctuated by periods of instability. Contrary to some paradigms of biodiversity, the high diversity communities were unstable on centennial scales, 4 yet the low diversity assemblages did not necessarily confer stability to these assemblages. Growth rates of inshore reefs were independent of diversity or community structure. From a management perspective, these results provide a longer-term (decades to centuries) understanding of coral community dynamics on inshore reefs of the GBR that provides a basis for detecting and understanding changes following European settlement, and a baseline for the management and potential restoration of coral communities at local and regional scales.

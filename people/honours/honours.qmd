@@ -1,5 +1,5 @@
 ---
-title: Honours students
+title: All honours students
 description: Here, we list Marine Palaeoecology Lab students and their research projects. Students are ordered by how recently they graduated from UQ.
 toc: true
 toc-title: Researchers
