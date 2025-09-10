@@ -1,0 +1,36 @@
+---
+title: "Emer Cunningham"
+image: "emer.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: emer.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:e.cunningham@uqconnect.edu.au
+    - icon: globe
+      text: UQ Profile
+      href: https://cbcs.centre.uq.edu.au/profile/2781/emer-cunningham
+---
+
+I am a PhD student under the supervision of Professor John Pandolfi and Dr Timothy Staples. I joined the Marine Palaeoecology lab in June 2019 as a Winter Research Scholar, working with PhD student Carolina Chong-Montenegro to reconstruct historical fisheries records of species along the Queensland coast. Since then, I remained in the lab as a volunteer researcher. Concurrent with my undergraduate degree, I worked independently and collaboratively on a range of projects across multiple disciplines including historical ecology, marine biology, and geology.
+
+In December 2021, I graduated from The University of Queensland with a Bachelor of Advanced Science (Honours). For my Honours project, I quantified patterns in taxonomic and functional ecological novelty in historical Queensland coral communities under the supervision of Prof Pandolfi and Dr Staples. I will continue studying ecological novelty in marine ecosystems throughout my PhD, which I started in January 2022.
+
+I love learning and teaching science; when I’m not reading the literature or troubleshooting my code, you might find me on campus tutoring wide audiences about science – whether I’m surveying sclerophyll forest with high school students or chatting about turtle skulls with second-year zoologists.
+
+---
+
+### Research interests
+
+Coastal and marine ecosystems, ecology of coral reefs, temporal and spatial scale in ecology.
+
+---
+
+### Current research
+
+*Drivers and consequences of novel marine ecological communities*
+
+Earth’s ecological assemblages are rapidly being driven towards unprecedented, “novel” states. Novel communities are often defined by their unexpected species compositions; under human activities, ecologists and managers are increasingly interested in how this novelty emerges and impacts our planet. We know little about ecological novelty in our oceans, despite evidence that modern marine communities are experiencing greater rates and magnitudes of change than both modern terrestrial ecosystems and historical marine ecosystems. In my PhD, I aim to uncover patterns in marine ecological novelty across space and time, and shed light on their drivers and consequences. It is important to quantitatively assess novel marine ecological communities as we anticipate their increasing emergence under ongoing and exacerbating environmental change.

@@ -1,0 +1,100 @@
+---
+title: "Ruth Thurstan"
+image: "ruth.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: ruth.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:R.Thurstan@exeter.ac.uk
+    - icon: globe
+      text: University of Exeter
+      href: https://experts.exeter.ac.uk/26526-ruth-thurstan
+---
+
+### Education
+
+PhD in Historical Marine Ecology – University of York, UK
+
+MSc in Marine Environmental Management – University of York, UK
+
+BSc in Marine Biology – University of Liverpool, UK
+
+---
+
+### Research interests
+
+- Historical ecology
+- Shifting baselines in marine ecosystems
+- Drivers of change to marine communities
+
+---
+
+### Current research
+
+Historical ecology of Australian marine mega-fauna and fisheries
+
+---
+
+### Selected publications
+
+*Peer-reviewed articles*
+
+**Thurstan, R.H.**, Campbell, A.B. and Pandolfi, J.M. 19th century narratives reveal historic catch rates for Australian snapper. In press. DOI: 10.1111/faf.12103 Thurstan et al 2014
+
+**Thurstan, R.H.** and Roberts, C.M (2014). The past and future of fish consumption: can supplies meet healthy eating recommendations? Marine Pollution Bulletin: In press. DOI: 10.1016/j.marpolbul.2014.09.016. Thurstan and Roberts 2014
+
+**Thurstan, R.H.**, Hawkins, J.P. and Roberts, C.M (2013). Origins of the bottom trawling controversy in the British Isles: 19th century witness testimonies reveal evidence of early fishery declines. Fish and Fisheries. In press. DOI: 10.1111/faf.12034. Thurstan et al 2013
+
+**Thurstan, R.H.**, Hawkins, J.P., Raby, L. and Roberts, C.M (2013). Oyster (Ostrea edulis) extirpation and ecosystem transformation in the Firth of Forth, Scotland. Journal for Nature Conservation. In press. DOI: 10.1016/j.jnc.2013.01.004. Thurstan et al 2013
+
+Howarth, L.M., Roberts, C.M., **Thurstan, R.H.** and Stewart, B.D (2013). The unintended consequences of simplifying the sea: making the case for complexity. Fish and Fisheries. In press. DOI 10.1111/faf.12041. Howarth et al 2013
+
+**Thurstan, R.H.**, Hawkins, J.P., Neves, L. and Roberts, C.M (2012). Are marine reserves and non-consumptive activities compatible? A global analysis of marine reserve regulations. Marine Policy 36: 1096-1104. Thurstan et al 2012
+
+**Thurstan, R.H.**, Brockington, S. and Roberts, C.M (2010). The effects of 118 years of industrial fishing on UK bottom trawl fisheries. Nature Communications 1(15): 1-6. Thurstan et al 2010
+
+**Thurstan, R.H.** and Roberts, C.M (2010). Ecological meltdown in the Firth of Clyde, Scotland: 120 years of change in a coastal marine ecosystem. PLoS ONE 5(7): e11767. Thurstan et al 2010
+
+**Thurstan, R.H.**, Roberts, C.M., Hawkins, J.P. and Neves, L (2009). Highly protected Marine Conservation Zones: defining damaging and disturbing activities. CCW Policy Research Report No. 09/01.
+
+**Thurstan, R.H.**, Roberts, C.M., Hawkins, J.P. and McAuslan, L.A.B (2008). Marine reserves in Northern Ireland: the way forward. WWF Northern Ireland and Ulster Wildlife Trust, UK.
+
+Roberts, C.M., Brown, R.L., **Thurstan, R.H.** and Hawkins, J.P (2008). Selecting and implementing Highly Protected Marine Reserves in Wales. CCW Policy Research Report No. 08/17.
+
+*Popular articles*
+
+- [Saving the swimming dead](https://www.nature.com/scitable/blog/saltwater-science/saving_the_swimming_dead/). Saltwater Science, Oct 2014.
+- [Will there be enough fish to go around?](https://theconversation.com/will-there-be-enough-fish-to-go-around-not-if-we-follow-healthy-eating-guidelines-32704) The Conversation, Oct 2014.
+- [Open and shut case](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://marinepalaeoecology.org/wp-content/uploads/2011/09/Thurstan-Scuba.pdf). BSAC SCUBA magazine article, August 2013.
+- [Fishing up the past](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://marinepalaeoecology.org/wp-content/uploads/2011/09/Thurstan-Significance-Aug-2013.pdf). Significance magazine article, August 2013.
+
+*Conference proceedings*
+
+Novel solutions to conservation data gaps. Symposium session: International Marine Conservation Congress, Glasgow, UK, August 2014.
+
+Using popular media to provide insights into historical fisheries. Abstracts: 3rd International Marine Conservation Congress, Glasgow, UK, August 2014.
+
+Using insights from the past to reshape the future. ARC Centre of Excellence for Coral Reef Studies Symposium, Canberra, Australia, July 2014.
+
+‘Old man schnapper’. Abstracts: Australian Society for Fish Biology. Hamilton, New Zealand, August 2013.
+
+Reconstructing the historical ecology of Queensland snapper: the changing fortunes of an iconic fishery. Abstracts: HMAP, Oceans Past IV. Fremantle, Australia, November 2012.
+
+Origins of the bottom trawling controversy in the British Isles. Abstracts: HMAP, Oceans Past IV. Fremantle, Australia, November 2012.
+
+Inconsistencies between health recommendations and fish availability: are there enough fish to go around? Abstracts: 2nd International Marine Conservation Congress, Victoria, B.C. 14-18th May 2011. Society for Conservation Biology: Marine Section.
+
+Historical decline of demersal fisheries and future management implications in UK waters. Progress in Marine Conservation in Europe. von Nordheim, H., Krause, J.C. and Maschner, K (Eds) (2011). Proceedings of the Symposium, 2-6th November 2009, Stralsund, Germany. BfN-Skripten 287.
+
+A 120 year time series of landings and fishing effort data reveals drastic declines in fish abundance in UK and European seas. Abstracts: International Marine Conservation Congress, Washington D.C., 19-24th May 2009. Society for Conservation Biology: Marine Section.
+
+*Selected media*
+
+- [Nature World News.](http://www.natureworldnews.com/articles/9604/20141014/health-experts-eat-more-fish-despite-dwindling-supplies.htm) Health experts say, ‘Eat more fish’, despite dwindling supplies. 
+- [The Guardian.](http://www.theguardian.com/environment/2014/feb/10/bottom-trawling-how-to-empty-the-seas) Bottom trawling: how to empty the seas in just 150 years. 
+- [Nature News.](http://www.nature.com/news/fishermen-report-on-stocks-from-beyond-the-grave-1.12775) Fishermen report on stocks from beyond the grave. 
+- [The Sunday Times.](http://www.thesundaytimes.co.uk/sto/news/uk_news/Environment/article342090.ece) Clyde cleaned out to become marine desert. 

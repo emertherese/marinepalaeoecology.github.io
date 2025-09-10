@@ -1,0 +1,61 @@
+---
+title: "Alberto Rodriguez-Ramirez"
+image: "alberto.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: alberto.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:alberto.rodriguez@uq.edu.au
+---
+
+### Education
+
+BSc in Marine Biology, Universidad Jorge Tadeo Lozano, Colombia
+
+---
+
+### Research interests
+
+Historical ecology on coral reefs
+
+---
+
+### Current research
+
+*Historical analysis of disturbances to coral reefs in the Southern Great Barrier Reef: Linking processes of growth and mortality to environmental factors.*
+
+Principal Advisor Prof Jian-xin Zhao; Associate Advisor: Dr Ke-fu Yu (UQ), Associate Advisor: Prof John M. Pandolfi (UQ).
+
+---
+
+### Selected publications
+
+**Rodríguez-Ramírez A.** and Zapata F.A. 2011. An atypical corallum morphology in a species of Pocillopora. Coral Reefs, doi 10.1007/s00338-011-0854-z.
+
+Eakin C.M., et al. (included **A. Rodríguez-Ramírez**). 2010. Caribbean Corals in Crisis: Record Thermal Stress, Bleaching, and Mortality in 2005. PLoS ONE 5(11): e13969. doi:10.1371/journal.pone.0013969
+
+**Rodríguez-Ramírez A.**, et al. 2010. Temporal patterns in coral reef, seagrass and mangrove communities from Chengue bay CARICOMP site (Colombia): 1993-2008. Rev. Biol. Trop.58 (Suppl. 3): 45-62.
+
+**Rodríguez-Ramírez A.** et al. 2010. Recent dynamics and condition of coral reefs in the Colombian Caribbean. Rev. Biol. Trop. 58 (Suppl. 1): 107-131.
+
+Garzón-Ferreira, J. & **A. Rodríguez-Ramírez**. 2010. SIMAC: Development and implementation of a coral reef monitoring network in Colombia. Rev. Biol. Trop. 58 (Suppl. 1): 67-80.
+
+Zapata F.A., **A. Rodríguez-Ramírez**, C. Caro-Zambrano & J. Garzón-Ferreira. 2010. Mid-term coral-algal dynamics and conservation status of a Gorgona Island (Tropical Eastern Pacific) coral reef. Rev. Biol. Trop. 58 (Suppl. 1): 81-94.
+
+Navas-Camacho R., **A. Rodríguez-Ramírez**, M.C. Reyes-Nivia, D.L. Gil-Agudelo, & J. Garzón-Ferreira. 2010. Coral diseases and bleaching on Colombian Caribbean coral reefs. Rev. Biol. Trop. 58 (Suppl. 1): 95-106.
+
+Navas-Camacho R., **A. Rodríguez-Ramírez** & M.C. Reyes-Nivia. 2010. Agents of coral mortality on reef formations of the Colombian Pacific. Rev. Biol. Trop. 58 (Suppl. 1): 133-138.
+
+Sánchez J.A. et al. (included **A. Rodríguez-Ramírez**). 2010. White plague-like coral disease in remote reefs of the Western Caribbean. Rev. Biol. Trop. 58 (Suppl. 1): 145-154.
+
+Gil-Agudelo D.L., (included **A. Rodríguez-Ramírez**) 2009. Coral diseases and their research in Colombian reefs. Bol. Invest. Mar. Cost. 38(2): 189-224.
+
+Paddack M.J. et al. (included **A. Rodríguez-Ramírez**). 2009. Recent region-wide declines in Caribbean reef fish abundance. Current Biology 19(7): 590-595.
+
+**Rodríguez-Ramírez A.** et al. 2008. The Effects of coral bleaching in southern tropical America: Brazil, Colombia, and Venezuela. 105-114. In: Wilkinson C. & D. Souter (eds). Status of Caribbean coral reefs after bleaching and hurricanes in 2005. Global Coral Reef Monitoring Network, and Reef and Rainforest Research Centre, Townsville, Australia.
+
+**Rodríguez-Ramírez A.**, et al. 2008. Status of coral reefs and associated ecosystems in Southern Tropical America: Brazil, Colombia, Costa Rica, Panamá and Venezuela. pp 281-294. In: Wilkinson, C. (Ed.). Status of coral reefs of the world: 2008. Global Coral Reef Monitoring Network and Reef and Rainforest Research Centre, Townsville, Australia.

@@ -1,0 +1,59 @@
+---
+title: "John Pandolfi"
+image: "john.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: john.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:j.pandolfi@uq.edu.au
+    - icon: globe
+      text: UQ Profile
+      href: https://environment.uq.edu.au/profile/22976/john-pandolfi
+---
+
+My research investigates long-term ecological and environmental time series data over broad spatial scales to discover the major past and predicted future influences of natural variability, human impact, and climate change on coral reef resilience. This research program enables direct linkage among physical variables and biological responses, attempts to parse out the effects of human versus natural variability, provide natural baselines with which managers can use to place restoration goals in context, unveils processes that contribute to the resilience of coral reefs over long time frames and changing environmental conditions, and fosters a deep temporal perspective of the role of climate change in coral reef ecology.
+
+### Research interests
+
+Ecological dynamics of coral reef ecosystems over broad spatial and temporal scales.
+
+### Current research
+
+- Reconstruction of historical and ancient Great Barrier Reef coral reef communities using palaeoecological and molecular tools
+- Species range shifts in response to past and present climate change
+- Historical ecology of the coral reefs globally, including the Great Barrier Reef
+- Palaeoecological analysis of community structure of coral reef organisms (Great Barrier Reef; Line Islands; Sub-tropical Queensland coast; Papua New Guinea; Solomon Islands)
+- Estimating historical population sizes of Australian marine taxa using genetic analyses (Great white sharks; other commercial and recreational fisheries)
+- Species range shifts in response to past and present climate change (Western Australia coast; Great Barrier Reef; sub-tropical Queensland and New South Wales coasts)
+- Calcification over the past few thousands of years (Great Barrier Reef; Line Islands)
+- Linking marine biotic evolution and carbonate platform development in the South China Sea (Sarawak, Malyasia; Phillippines)
+- Historical ecology of the coral reefs of Hervey Bay, Queensland
+
+### Professional associations
+
+- The Paleontological Society
+- International Society for Reef Studies
+- President of the Australian Coral Reef Society (ACRS)
+- International Association on Fossil Cnidaria (University of California-Davis)
+
+### Selected publications
+
+**Pandolfi, J.M.**, Connolly, S., Marshall, D. and Cohen, A. (2011) Projecting coral reef futures under global warming and ocean acidification. Science 333: 418-422.
+
+Lybolt, T., Neil, D., Zhao, J-x., Feng, Y-x., Yu, K-F., and **Pandolfi, J.M.** (2011) The shift from natural to human-dominated seascapes: a history of instability in marginal coral reefs. Frontiers in Ecology and Environment 9: 154–160.
+
+Budd, A.F and **Pandolfi, J.M.** (2010) Evolutionary novelty is concentrated at the edge of coral species distributions. Science 328: 1558-1561.
+
+Tager, D., Webster, J.W., Potts, D. C., Renema, W., Braga, J. C. & **Pandolfi, J.M.** (2010) Community dynamics of Pleistocene coral reefs during alternative climatic regimes. Ecology 91, 191-200.
+
+Renema, W., David Bellwood, Juan Carlos Braga, Kate Bromfield, Robert Hall, Kenneth G. Johnson, Peter 
+
+Lunt, Christopher P. Meyer, Laura McMonagle, Robert J. Morley, Aaron O’dea, Jonathan A. Todd, Frank P. 
+
+Wesselingh, Moyra E.J. Wilson, and **John M. Pandolfi.** (2008) Hopping hotspots: Global shifts in marine biodiversity. Science 321:654-657.
+
+Greenstein, B.J., and **Pandolfi, J.M.** 2008. Escaping the heat: Range shifts of reef coral taxa in coastal Western Australia. Global Change Biology 14: 513-528.

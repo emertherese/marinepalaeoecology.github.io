@@ -1,0 +1,48 @@
+---
+title: "Sharad Baayana"
+image: "sharad.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: sharad.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:s.bayyana@uq.edu.au
+    - icon: globe
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Sharad-Bayyana
+---
+
+Sharad joined the lab in July 2023 as a PhD candidate under the supervision of Dr John Pandolfi and Dr Sun W. Kim. He comes from India, where he was engaged in several marine and wildlife research projects since completing his master’s in marine biology in 2017. He also holds a post-graduate diploma in Remote Sensing and GIS from Indian Institute of Remote Sensing.
+
+Back in India, his work at the Wildlife Institute of India involved studying the spatial ecology of Dugongs, mangroves succession in the Nicobar group of islands after the tsunami of 2004, and coral reef biodiversity assessment of Malvan Marine Sanctuary, along the west coast of India. He, also, was part of two research expeditions with Centre for Marine Living Resources and Ecology (CMLRE) for developing genetic database of deep-sea fauna from Indian EEZ.
+
+He has previously interned at the Horniman Museum, London as a visiting researcher, to conduct research on coral reproductive biology and restoration practices. Lately, at Wildlife Conservation Society-India, he was involved in developing data-driven strategies for management practices of Marine Protected Areas along the west coast of India, before moving to Brisbane for his PhD.
+
+---
+
+### Research interests
+
+Sharad is broadly interested in Seascape Ecology, climate change impacts on marine ecosystems and developing strategies for protected area management.
+
+---
+
+### Current research
+
+*Portfolio projection of biodiversity responses under climate change*
+
+For his PhD, he will pursue the implications of climate-driven risks on the biodiversity dynamics under future emission projections. The project aims to quantifying adaptive and migration responses as vulnerability metrics, that will provide resource managers with novel tools to formulate flexible management strategies.
+
+---
+
+### Publications
+
+Prabakaran, N., **Bayyana, S.**, Vetter, K. and Reuter H. (2021). Mangrove recovery in the Nicobar archipelago after the 2004 tsunami and coastal subsidence. Reg Environ Change 21, 87. https://doi.org/10.1007/s10113-021- 01811-0.
+
+**Bayyana, S.**, Pawar, S., Gole, S., Dudhat, S., Pande, A., Mitra, D., Johnson, J.A. and Sivakumar, K., (2020). Detection and mapping of seagrass meadows at Ritchie’s archipelago using Sentinel 2A satellite imagery. CURRENT SCIENCE, 118(8), p.1275.
+
+Dixit, S., **Bayyana, S.**, Manjebrayakath, H., Saravanane, N. and Sudhakar, M. (2019). Polyclad fauna of Agatti Island, Lakshadweep: new records and description of two new species. Zootaxa 4657 (2), 246-260.
+
+**Bayyana, S.**, Yalla, S.K., Cherian, T. and Mohanraju, R. (2018). Isolation and Characterization of Bioluminescent Bacteria Associated with Uroteuthis duvaucelli, An Indian squid from Andaman waters. Global Journal of Bioscience and Biotechnology 7(3), 353-8.

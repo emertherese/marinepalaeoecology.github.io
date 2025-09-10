@@ -1,0 +1,67 @@
+---
+title: "Sun W. Kim"
+image: "sun.png"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: sun.png
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:sun.w.kim@uq.edu.au
+    - icon: orcid
+      text: ORCiD
+      href: https://orcid.org/0000-0002-2429-3245
+    - icon: globe
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Sun-Wook-Kim-6
+---
+
+### Research interests
+
+Biodiversity, Biogeography, Climate Change, Ecological Economics, Phylogenetics, Informatics
+
+---
+
+### Selected publications
+
+*Peer-reviewed articles*
+
+Raja, N.B., Lauchstedt, A., Pandolfi, J.M., **Kim, S.W.**, Budd, A.F., Kiessling, W. 2021. Morphological traits of reef corals predict extinction risk but not conservation status. Global Ecology and Biogeography 30: 1597-1608.
+
+Cant, J., Salguero-Gómez, R., **Kim, S.W.**, Sims, C.A., Sommer, B., Brooks, M., Malcolm, H.A., Pandolfi, J.M., Beger, B. The projected degradation of subtropical coral assemblages by recurrent thermal stress. Journal of Animal Ecology 90: 233-247.
+
+**Kim, S.W.**, Sampayo, E.M., Sommer, B., Sims, C.A., Gómez-Cabrera, M.C., Dalton, S.J., Beger, M., Malcolm, H.A., Ferrari, R., Fraser, N., Figueira, W.F., Smith, S.D.A., Heron, S.F., Baird, A.H., Byrne, M., Eakin, C.M., Edgar, R., Hughes, T.P., Kyriacou, N., Liu, G., Matis, P.A., Skirving, W.J., Pandolfi, J.M. 2019. Refugia under threat: mass bleaching of coral assemblages in high-latitude eastern Australia. Global Change Biology 25: 3918-3931.
+
+**Kim, S.W.**, Blomberg, S.P., Pandolfi, J.M. 2018. Transcending data gaps: a framework to reduce inferential errors in ecological analyses. Ecology Letters 21: 1200-1210.
+
+**Kim, S.W.**, Chung, M., Park, H.-S. 2015. Tropical fish species thriving in temperate Korean waters. Marine Biodiversity 45(2): 147-148.
+
+**Kim, S.W.**, Miller, A.J., Brunson, C., Netchy, K., Clouse, R., Janies, D., Tardy, E., Kerr, A.M. 2014. Shallow-water holothuroids (Echinodermata) of Yap, Federated States of Micronesia. Pacific Science 68(3): 397-420.
+
+Shin, H.-J., **Kim, S.W.**, Choi, Y.-U. 2014. Morphological and genetic characters of pearl-spot damselfish Chromis notata (Teleostei: Pomacentridae) in Korea. Ocean and Polar Research 36 (2): 189-197.
+
+**Kim, S.W.**, Kerr, A.M., Paulay, G. 2013. Colour, confusion and crossing: resolution of species problems in Bohadschia (Echinodermata: Holothuroidea). Zoological Journal of the Linnean Society 168: 81-97.
+
+Michonneau, F., Borrero-Perez, G.H., Honey, M., Kamarudin, K.R., Kerr, A.M., **Kim, S.**, Menez, A., Miller, A., Ochoa, J.A., Olavides, R.D., Paulay, G., Samyn, Y., Setyastuti, A., Solis-Marin, F., Starmer, J., VandenSpiegel D. 2013. The littoral sea cucumber (Echinodermata: Holothuroidea) fauna of Guam re-assessed – a diversity curve that does not asymptote. Cashiers de Biologie Marine 54: 531-540.
+
+*Books*
+
+Park, H.-S., Yoon, K.-T., **Kim, S.W.**, Lee, D.-W., Satoa, M.M. Faaliga, P. 2021. Introduction to marine fauna and algae on coral reefs: Samoa. Korea Institute of Ocean Science and Technology Press, Korea.
+
+Kwon, M., Park, H.-S., Baek, S.-K., Kim, J.-W., Lee, J.-H., Ha, J.-H., **Kim, S.W.**, Ahn, C. 2018. The last blue ocean: Pacific island states and their leaders. Korea Institute of Ocean Science and Technology Press, Korea.
+
+Park, H-.S., Oh, J.H., **Kim, S.W.**, Choi, H.W., Kim, T.H., Kim, T. eds. 2015. Environment of the Chuuk Lagoon. Korea Institute of Ocean Science and Technology Press, Korea.
+
+**Kim, S.W.**, Choi, Y.-U., Kim, T., Park, H.-S. eds. 2014. Coral reefs of Chuuk, Federated States of Micronesia. Korea Institute of Ocean Science and Technology Press, Korea.
+
+*Technical reports*
+
+**Kim, S.W.**, Park, H.-S., Choi, G.-S. 2016. Status of coral reefs of Korea. Global Coral Reef Monitoring Network (GCRMN) Report.
+
+Kerr, A.M., **Kim, S.W.**, Miller, A.J. 2013. The Shallow-water holothuroids of Chuuk, Federated States of Micronesia. University of Guam Marine Laboratory Technical Report 155.
+
+Kerr, A.M., **Kim, S.W.** 2013. Selected descriptions of sea cucumbers in the genus Bohadschia (Holothuriidae) by Cherbonnier, Jäeger, Ludwig, Panning, Selenka and Semper. University of Guam Marine Laboratory Technical Report 145.
+
+Kerr, A.M., **Kim, S.W.**, Michonneau, F. 2008. The Shallow-water Echinoderms of Kosrae. University of Guam Marine Laboratory Technical Report 123.

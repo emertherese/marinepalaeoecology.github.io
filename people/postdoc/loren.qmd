@@ -1,0 +1,20 @@
+---
+title: "Loren McClenachan"
+image: "loren.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: loren.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:lemcclen@colby.edu
+    - icon: globe
+      text: Website
+      href: http://mcclenachan.weebly.com/
+---
+
+### Research interests
+
+Historic ecology, baselines, sustainable fisheries, conservation, ecological change

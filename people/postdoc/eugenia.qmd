@@ -1,0 +1,110 @@
+---
+title: "Eugenia Sampayo"
+image: "eugenia.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: eugenia.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:e.sampayo@uq.edu.au
+    - icon: globe
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Sharad-Bayyana
+---
+
+### Education
+
+Post-doctoral Research Fellow, The Pennsylvania State University, USA, 2010
+
+Post-doctoral Research Fellow, The University of Queensland, Australia, 2008
+
+PhD, “Diversity and Ecology of Symbiodinium in pocilloporid corals”, The University of Queensland, Australia, 2007
+
+MSc, “Reproduction and speciation in the coral genus Madracis“, The University of Groningen, Netherlands, 2000
+
+---
+
+### Research interests
+
+Symbiosis ecology, bio-geography and evolution. Environmental tolerance ranges and specificity of larval and juvenile corals. Adaptation in reef corals, and species range shifts.
+
+---
+
+### Current research
+
+Climate change is predicted to drive tropical reef corals towards high latitude communities. Past evidence indicates that these high latitude coral communities can act as refugia and sources of evolutionary novelty. At present information on high latitude coral reefs and their associated symbiont communities remains sparse. In my current research I aim to address some of the questions pertaining to the potential of reef corals to move into higher latitudes by studying subtropical and high-latitude coral communities along the eastern Australian coast. I will specifically assess the: a) level of overlap between tropical and high-latitude communities in terms of coral symbioses, b) presence of genetic breaks, c) influence of coral reproductive mode, symbiont strategy, and symbiont transmission on species ranges. I will further experimentally modulate symbiotic partnerships under various climate scenarios to get an insight into the potential for generational changes in coral-symbiont partnerships. This data provides a step forward to understand the potential of reef corals to move current species ranges, and ties in with ongoing research on ecological dynamics of fish, coral and echinoderm assemblages at high latitude reefs and established research priorities (www.susra.org) for conservation of subtropical reefs under the pressure of climate change.
+
+---
+
+### Publications
+
+**Sampayo EM**, Roff G, Sims C, Rachello-Dolmen P, Pandolfi JM (2020). Patch size drives settlement success and spatial distribution of coral larvae under space limitation. Coral Reefs, 39:387.
+
+Gonzalez-Rivero M, Beijbom O, Rodriguez-Ramirez A, Bryant D, Ganase A, Gonzalez-Marrero Y, Herrera-Reveles A, Kennedy E, Kim C, Lopez-Marcano S, Markey K, Neal B, Osborne K, Reyes- Nivia C, **Sampayo EM**, Stolberg K, Taylor A, Vercelloni J, Wyatt M; Hoegh-Guldberg O (2020). Monitoring of coral reefs using artificial intelligence: a feasible and cost-effective approach. Remote Sensing, 12:489.
+
+Dalton SJ, Carrol AG, **Sampayo EM**, Roff G, Harrison PL, Entwistle K, Salih A, Diamond SL (2020). Successive marine heatwaves cause significant coral bleaching impacts at Lord Howe Island, a high latitude reef. Science of the Total Environment, 715:136951.
+
+Osman EO, Suggett DJ, Voolstra CR, Pettay DT, Clark DR, Pogoreutz C, **Sampayo EM**, Warner ME, Smith DJ (2020). Coral microbiome composition along the northern Red Sea suggests high plasticity of bacterial and specificity of endosymbiotic dinoflagellate communities. Microbiome, 8:1. 
+
+Kim S, **Sampayo EM**, Sims C, Sommer B, et al. (2019). Refugia under threat: mass bleaching of coral assemblages in high-latitude eastern Australia. Global Change Biology 25:3918.
+
+Sommer B, **Sampayo EM**, Beger M, Harrison PL, Babcock RC, Pandolfi JM (2017). Local and regional controls of phylogenetic structure at the high-latitude range limits of corals. Proceedings of the Royal Society, series B 284:20170915.
+
+Tonk L, **Sampayo EM**, Chai A, Schrameyer V, Hoegh-Guldberg O (2017). Symbiodinium (dinophyceae) community patterns in invertebrate hosts from inshore marginal reefs of the southern Great Barrier Reef, Australia. Journal of Phycology 53:589.
+
+Reef R, Samper-Villarreal J, Adame MF, Lovelock CE, **Sampayo EM**, Atwood TB (2017). Using eDNA to determine organic matter sources in seagrass meadows. Limnology and Oceanography 62:1254.
+
+**Sampayo EM**, Ridgway T, Franceschinis L, Roff G, Hoegh-Guldberg O, Dove S (2016). Coral symbioses under prolonged environmental change: living near tolerance range limits. Scientific Reports 6:36271.
+
+Winkler N, Pandolfi JM, **Sampayo EM**. (2015) Symbiodinium identity alters the temperature-dependent settlement behaviour in Acropora millepora coral larvae before onset of symbiosis. Proceedings of the Royal Society, series B 282:20142260.
+
+**Sampayo EM**, Pandolfi JM (2015) Adaptation of coral symbiosis to climate change. ‘Mutualisms’, J. Bronstein (ed.), Oxford University Press.
+
+Tonk L, **Sampayo EM**, LaJeunesse TC, Schrameyer V, Hoegh-Guldberg O (2014) Symbiodinium (Dinophyceae) diversity in reef-invertebrates along an offshore to inshore gradient around Lizard Island, Great Barrier Reef. Journal of Phycology 50:552.
+
+Kaniewska P, Anthony KRN, **Sampayo EM**, Campbell PR, Hoegh-Guldberg O (2014) Implications of geometric plasticity for maximizing photosynthesis in branching corals. Marine Biology 161:313.
+
+Pinzon JH, **Sampayo EM**, Cox E, Chauka LJ, Reyes-Bonilla H, Chen CA, Voolstra CR, LaJeunesse TC (2013) Blind to morphology, genetics identify several widespread ecologically common species and few endemics among Indo-Pacific cauliflower corals. Journal of Biogeography 40:1595.
+
+Tonk L, **Sampayo EM**, Weeks S, Magno-Canto M, Hoegh-Guldberg O (2013) Host-Specific Interactions with Environmental Factors Shape the Distribution of Symbiodinium across the Great Barrier Reef. PLOS One 8:e68533.
+
+Tonk L, Bongaerts P, **Sampayo EM**, Hoegh-Guldberg O (2013) SymbioGBR: a web-based database of Symbiodinium associated with cnidarian hosts on the Great Barrier Reef. BMC Ecology 13:7.
+
+Kvennefors ECE, **Sampayo EM**, Kerr C, Vieira G, Roff G, Barnes AC (2011) Regulation of bacterial communities through antimicrobial activity by the coral holobiont. Microbial Ecology 63 (3), 605-618.
+
+Bongaerts P, **Sampayo EM**, Bridge TCL, Ridgway TM, Vermeulen F, Englebert N, Webster JM, Hoegh-Guldberg O (2011) Symbiodinium diversity in mesophotic coral communities on the Great Barrier Reef: a first assessment. Marine Ecology Progress Series 439, 117-126.
+
+Wang JT, Meng PJ, Sampayo E, Tang SL, Chen CA (2011) Photosystem II breakdown induced by reactive oxygen species (ROS) in the freshly isolated Symbiodinium of Montipora (Scleractinia; Acroporidae). Marine Ecology Progress Series 422, 51-62.
+
+Bongaerts P, Riginos C, Ridgway T, **Sampayo EM**, van Oppen MJH, Englebert N, Vermeulen F, Hoegh-Guldberg O (2010) Genetic divergence across habitats in the widespread coral Seriatopora hystrix and its associated Symbiodinium. PLOS One: e10871.
+
+Bongaerts P, Ridgway T, **Sampayo EM**, Hoegh-Guldberg O (2010) Assessing the deep reef refugia hypothesis: focus on Caribbean reefs. Coral Reefs 29 (2), 309-327. 
+
+Finney JC, Pettay DT, **Sampayo EM**, Warner ME, Oxenford HA, LaJeunesse TC (2010) The relative significance of host-habitat, depth, and geography on the ecology, endemism and speciation of coral endosymbionts in the genus Symbiodinium. Microbial Ecology 60: 250-263.
+
+Kvennefors ECE, **Sampayo EM**, Ridgway T, Barnes AC, Hoegh-Guldberg O (2010) Bacterial communities of two ubiquitous Great Barrier Reef corals reveals both site- and species-specificity of common bacterial associates. PLOS One 5 (4): e10401.
+
+LaJeunesse TC, Pettay DT, **Sampayo EM**, Phongsuwan N, Brown B, Obura D, Hoegh-Guldberg O, Fitt WK (2010) Long-standing environmental conditions, geographical isolation and host-symbiont specificity influence the relative ecological dominance and genetic diversification of coral endosymbionts in the genus Symbiodinium. Journal of Biogeography 37: 785-800. 
+
+Thornhill DJ, Kemp DW, **Sampayo EM**, Schmidt GW (2010) Altered amplicon migration behavior in differing denaturing gradient gel electrophoresis (DGGE) systems. Coral Reefs 29: 83-91. 
+
+Wicks LC, **Sampayo EM**, Gardner JPA, Davy SK (2010) Local endemicity and high diversity characterise high latitude coral-Symbiodinium partnerships. Coral Reefs 29: 989-1003. 
+
+**Sampayo EM**, Dove S, LaJeunesse TC (2009) Cohesive molecular genetic data delineate species diversity in the dinoflagellate genus Symbiodinium. Molecular Ecology, 18: 500-519. PDF
+
+**Sampayo EM**, Ridgway T, Bongaerts P, and Hoegh-Guldberg O. (2008) Bleaching susceptibility and mortality of corals is determined by fine-scale differences in symbiont type. Proceedings of the National Academy of Science USA, 105: 10444-10449. PDF
+
+Sandin SA, **Sampayo EM**, and Vermeij MJA (2008) Coral reef fish and benthic community structure of Bonaire and Curacao, Netherlands Antilles. Caribbean Journal of Science, 44: 137-144. 
+
+Macdonald AH, **Sampayo EM**, Ridgway T, and Schleyer MH (2008) Latitudinal symbiont zonation in Stylophora pistillata from southeast Africa. Marine Biology 154: 209-217. 
+
+**Sampayo EM**, Francheschinis L, Hoegh-Guldberg O, and Dove S (2007) Niche partitioning of closely related symbiotic dinoflagellates. Molecular Ecology 16: 3721-3733. PDF
+
+Ridgway TM and **Sampayo EM** (2005) Population genetic status of the Western Indian Ocean: What do we know?  Western Indian Ocean Journal of Marine Science 1: 1-9.
+
+Vermeij MJA, **Sampayo EM**, Bröker KCA and Bak RPM (2004) The reproductive biology of closely related coral species: Gametogenesis in Madracis from the Southern Caribbean. Coral Reefs 23: 206-214. 
+
+Vermeij MJA, **Sampayo EM**, Bröker KCA and Bak RPM (2003) Variation in planulae release of closely related coral species. Marine Ecology Progress Series 247: 75-84.

@@ -1,0 +1,58 @@
+---
+title: "Steve Dalton"
+image: "steve.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: steve.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:sjdalts@gmail.com
+    - icon: book
+      text: Full list of publications
+      href: https://drive.google.com/file/d/1RWKDMHaZ2RrEFZSpI9B_I1vzZSQpcu_D/view?usp=sharing
+---
+
+Steve Dalton is a post-doctoral researcher in the School of Biological Sciences University of Queensland. Steve received a PhD in Marine Science and Management from the University of New England, Armidale NSW.
+
+Steve has extensive knowledge of marine habitats along the NSW and southern QLD coastline and is currently undertaking research focussed on assessing the potential for tropical coral species migration to higher latitudes and understanding the mechanisms that enable warm water coral specialist to grow and persist at marginal reefs along the eastern seaboard. This work aims to assess the influence of elemental stoichiometry in corals and their symbionts in determining how changes in metabolic rates might define latitudinal limits in the distribution of reef corals.
+
+Steve is committed to understanding the implications of threats to subtropical marine environments, which will help to develop management strategies and educational programs to ensure future reef stability and longevity. Steve’s contribution to local projects, which engage community and government agency support, continue to build on the region’s capacity to undertake marine research.
+
+---
+
+### Education
+
+Research Scientist, Shark Research, Department of Primary Industries, Coffs Harbour NSW
+
+Post-doctoral Research Fellow, Southern Cross University, Coffs Harbour NSW
+
+PhD, University of New England, Armidale, NSW
+
+First Class Honours, University of New England, Armidale NSW
+
+---
+
+### Current research
+
+Steve's PhD research focused on assessing threats to subtropical marine communities, with particular emphasis on hard corals associated with reefs throughout northern New South Wales. This research identified an infectious disease that was termed Australian Subtropical White Syndrome. It provided a comprehensive assessment of the impact thermal stress and disease had on hard coral communities throughout the region. These observations established baseline data for comparison following a significant coral-bleaching event at Lord Howe Island (LHI) in 2010. A current collaborative project is assessing the resilience potential of hard corals to combat repeated thermal stress events. This ongoing research at LHI is the first project to document the impacts of successive thermal bleaching events and will provide important information regarding the ability of thermally vulnerable coral species to persist in a warmer climate, where bleaching episodes are predicted to occur annually by 2050.
+
+---
+
+### Selected publications
+
+Hughes, T.P., **Dalton, S. J.**, Kerry, J.T., et al. (2017). Global warming and recurrent mass bleaching of corals. Nature, 543, 373-377.
+
+Boulotte, N.M., **Dalton, S.J.**, Carroll, A.G., Harrison, P.L., Putnam, H.M., Peplow, L.M. et al. (2016). Exploring the Symbiodinium rare biosphere provides evidence for symbiont switching in reef-building corals. The ISME journal, 10, 2693-2701.
+
+Purcell, S.W., Piddocke, T.P., **Dalton, S.J.** & Wang, Y-G. (2016). Movement and growth of the coral reef holothuroids Bohadschia argus and Thelenota ananas. Mar Ecol Prog Ser, 551, 201-214.
+
+Scott, A., Rushworth, K., **Dalton, S.J.** & Smith, S.D. (2015). Subtropical anemonefish Amphiprion latezonatus recorded in two additional host sea anemone species. Marine Biodiversity, 46, 327-328.
+
+Purcell, S.W., Clarke, K.R., Rushworth, K. & **Dalton, S.J.** (2014). Defining critical habitats of threatened and endemic reef fishes with a multivariate approach. Conserv Biol, 28, 1688-1698.
+
+**Dalton, S.J.** & Roff, G. (2013). Spatial and temporal patterns of eastern Australia subtropical coral communities. PLoS ONE, 8, e75873.
+
+[See a full list of publications here.](https://drive.google.com/file/d/1RWKDMHaZ2RrEFZSpI9B_I1vzZSQpcu_D/view?usp=sharing)

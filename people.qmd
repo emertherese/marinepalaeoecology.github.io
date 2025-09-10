@@ -1,0 +1,47 @@
+---
+toc: true
+toc-title: Our people
+toc-location: left
+listing:
+  - id: profile-john
+    contents: "people/john/*.qmd"
+    type: default 
+    image-height: 230px
+    sort: "alphabetical"
+  - id: profile-postdoc
+    contents: "people/postdoc/*.qmd"
+    type: grid
+    image-height: 230px
+    sort: "alphabetical"
+  - id: profile-phd
+    contents: "people/phd/*.qmd"
+    type: grid
+    image-height: 230px
+    sort: "alphabetical"
+  - id: profile-honours
+    contents: "people/honours/*.qmd"
+    type: grid
+    image-placeholder: "people/honours/group-photo.jpg"
+    image-height: 230px
+    sort: "alphabetical"
+---
+
+## Professor John M. Pandolfi
+
+::: {#profile-john}
+:::
+
+## Postdoctoral researchers
+
+::: {#profile-postdoc}
+:::
+
+## PhD candidates
+
+::: {#profile-phd}
+:::
+
+## Honours and undergraduate students
+
+::: {#profile-honours}
+:::

@@ -1,0 +1,46 @@
+---
+title: "Timothy Staples"
+image: "tim.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: tim.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:t.staples@uq.edu.au
+    - icon: globe
+      text: Website
+      href: https://www.timothylstaples.net/
+---
+
+I am a community and quantitative ecologist whose research explores community ecology questions in a range of taxa and systems. I am particularly interested in the application of functional traits and statistical techniques to improve our understanding of how natural communities form and function, and how they change over time.
+
+My past research has examined mechanisms of coexistence between closely-related wildflower species, the relationship between species diversity and primary productivity in reforestation plantings, whether evolutionary context alters relationships between plant functional traits and growth rate, and predicting whether reforestation efforts are likely to develop expected conservation and carbon storage benefits.
+
+I am also interested in the research habits of ecologists, particularly in their publication and citation habits. I have been involved in a collaborative project examining the use of community ecology theory in restoration ecology experiments. I have also examined the interconnectivity in applied ecology more generally by web scraping publication and citation data.
+
+---
+
+### Current research
+
+My current research in the Marine Paleoecology lab is focused on using datasets of fossil coral to study communities over large time periods, something that is nearly impossible for communities of other long-lived taxa (e.g., trees). Some of my research projects include studying patterns of co-occurrence between coral, both community membership and actual interactions, and with PhD student Malyon Bimler, whether theoretical concepts of community stability are realistic for real-world community data.
+
+---
+
+### Recent publications
+
+**Staples TL**, Mayfield MM, England JR and Dwyer JM (2019). Comparing the recovery of richness, structure and biomass in naturally regrowing and planted reforestation. Restoration Ecology. doi: 10.1111/rec.13077.
+
+Ola A, **Staples TL**, Robinson N and Lovelock CE (2019). Plasticity in the above- and below-ground development of mangrove seedlings in response to variation in soil bulk density. Coasts and Estuaries. In Press.
+
+**Staples TL**, Dwyer JM, England JR and Mayfield MM (2019). Productivity does not correlate with species and functional diversity in Australian reforestation plantings across a wide climate gradient. Global Ecology and Biogeography. doi: 10.1111/geb.12962.
+
+**Staples TL**, Dwyer JM, Wainwright CE and Mayfield MM (2019). Applied ecological research is on the rise but connectivity barriers persist between four major subfields. Journal of Applied Ecology. doi: 10.1111/1365-2664.13373.
+
+Gomez Cabrera, MdC, Young JM, Roff G, **Staples TL**, Ortiz JC, Pandolfi JM and Cooper A (2019). Broadening the taxonomic scope of coral reef paleoecological studies using ancient DNA. Molecular Ecology. doi: 10.1111/mec.15038.
+
+Wainwright CE, **Staples TL**, Charles LS, Flanagan TC, Lai HR, Loy X, Reynolds VA and Mayfield MM (2018). Links between community ecology theory and ecological restoration are on the rise. J Appl Ecol. 55:570–581. doi:10.1111/1365-2664.12975.
+
+**Staples TL**, Dwyer JM, Loy X and Mayfield MM (2016), Potential mechanisms of coexistence in closely related forbs. Oikos 125:1812–1823. doi:10.1111/oik.03180.

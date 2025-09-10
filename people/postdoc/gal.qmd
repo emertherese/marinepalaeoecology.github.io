@@ -1,0 +1,80 @@
+---
+title: "Gal Eyal"
+image: "gal.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: gal.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:gal.eyal@uq.edu.au
+    - icon: globe
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Gal_Eyal
+---
+
+I currently work as Marie Skłodowska-Curie postdoc fellow at the Marine Palaeoecology Lab, School of Biological Sciences, The University of Queensland. I’m conducting research on Mesophotic Coral Ecosystems, Ecology, Physiology, Adaptation, and Ecosystem Dynamics using ecological and technological tools.
+
+---
+
+### Education
+
+2010-2012 M.Sc. at the Faculty of Life Sciences, Tel-Aviv University & The Interuniversity Institute in Eilat (IUI). Title: “Ecology and taxonomy of mesophotic communities in Israel (Red Sea and Mediterranean)”, Supervisor: Prof. Yossi Loya
+
+2012-2017 Ph.D. at the Faculty of Life Sciences, Tel-Aviv University & IUI. Title: “Ecology and physiology of mesophotic scleractinian corals at Eilat (northern Red Sea)”, Supervisor: Prof. Yossi Loya
+
+2017-2018 Postdoctoral fellow at The Steinhardt Museum of Natural History, Israel National Center for Biodiversity Studies, Tel-Aviv University. Title: “Comprehensive and taxonomical study of the mesophotic coral fauna from the Gulf of Eilat/Aqaba”
+
+2018-2021 Marie Sklodowska-Curie global postdoctoral fellow at the University of Queensland, Australia and Bar-Ilan University, Israel. Title: “Past and present mesophotic coral ecosystems as a predictor for survival of coral reefs in an era of climate change”
+
+---
+
+### Selected publications
+
+**Gal Eyal**, Lee Eyal-Shaham, Yossi Loya (2011) “Teeth-anchorage”: sleeping behavior of a Red Sea filefish on a branching coral. Coral Reefs 30:707. DOI: 10.1007/s00338-011-0766-y
+
+Galia Pasternak, Roni Ziv, **Gal Eyal**, Sigal Shefer, Henk K. Mienis, Oz Rittner, Bella S. Galil (2011) On the population of Chromodoris annulata Eliot, 1904 (Mollusca: Opistobranchia: Chromodorididae) off the Mediterranean coast of Israel. Aquatic Invasions 6/1:S91–S93. DOI: 10.3391/ai.2011.6.S1.021
+
+Adi Lavy, **Gal Eyal**, Benjamin Neal, Ray Keren, Yossi Loya, Micha Ilan (2015) A quick, easy, and non-intrusive method for underwater volume and surface area evaluation of benthic organisms by 3D computer modeling. Methods in Ecology and Evolution 6: 521–531. DOI: 10.1111/2041-210X.12331
+
+Or Ben-Zvi, **Gal Eyal**, Yossi Loya (2015) Light-dependent fluorescence in the coral Galaxea fascicularis. Hydrobiologia 759:15-26. DOI: 10.1007/s10750-014-2063-6
+
+Timor Katz, Hanan Ginat, **Gal Eyal**, Zvi Steiner, Yael Braun, Shariel Shalev, Beverly Goodman-Tchernov (2015) Desert flash floods form hyperpycnal plumes in the coral-rich Gulf of Aqaba, Red Sea. Earth and Planetary Science Letters, 417:87-98. DOI: 10.1016/j.epsl.2015.02.025
+
+**Gal Eyal**, Jörg Wiedenmann, Mila Grinblat, Cecilia D’Angelo, Raz Tamir, Esti Kramarsky-Winter, Tali Treibitz, Or Ben-Zvi, Yonathan Shaked, Tyler Smith, Saki Harii, Vianney Denis, Tim Noyes, Yossi Loya (2015) Spectral diversity and regulation of coral fluorescence in a mesophotic reef habitat in the Red Sea. PLoS ONE, 10:e0128697. DOI: 10.1371/journal.pone.0128697
+
+**Gal Eyal**, Lee Eyal-Shaham, Itay Cohen, Or Ben-Zvi, Frederic Sinniger, Yossi Loya (2016) Euphyllia paradivisa, a successful mesophotic coral in the northern Gulf of Eilat/Aqaba, Red Sea. Coral Reefs 35:91-102. DOI: 10.1007/s00338-015-1372-1
+
+Lee Eyal-Shaham, **Gal Eyal**, Raz Tamir, Yossi Loya (2016) Reproduction, abundance and survivorship of two Alveopora spp. in the mesophotic reefs of Eilat, Red Sea. Scientific Reports 6:20964. DOI: 10.1038/srep20964*equal contribution
+
+Yossi Loya, **Gal Eyal**, Tali Tribitz, Michael Lesser, Richard Appeldoorn (2016) Theme section on mesophotic coral reef ecosystems: advancements in knowledge and future perspectives. Coral Reefs 35:1-9. DOI: 10.1007/s00338-016-1410-7
+
+Oscar Beijbom, Tali Treibitz, David I. Kline, **Gal Eyal**, Adi Khen, Benjamin Neal, Yossi Loya, B. Greg Mitchell, David Kriegman (2016) Improving Automated Annotation of Benthic Survey Images Using Wide-band Fluorescence. Scientific Reports 6: 23166. DOI: 10.1038/srep23166
+
+Benjamin CC Hume, Christian R Voolstra, Chatchanit Arif, Cecilia d’Angelo, John Burt, **Gal Eyal**, Yossi Loya, Jörg Wiedenmann (2016) Ancestral genetic diversity associated with the rapid spread of stress-tolerant coral symbionts in response to Holocene climate change. Proceedings of the National Academy of Sciences 113:4416-4421. DOI: 10.1073/pnas.1601910113
+
+Dominic A Andradi-Brown, Mark JA Vermeij, Marc Slattery, Michael Lesser, Ivonne Bejarano, Richard Appeldoorn, Gretchen Goodbody-Gringley, Alex D Chequer, Joanna M Pitt, Corey Eddy, Struan R Smith, Eran Brokovich, Hudson T Pinheiro, Elliott Jessup, Bart Shepherd, Luiz A Rocha, Jocelyn Curtis-Quick, **Gal Eyal**, Timothy J Noyes, Alex D Rogers, Dan A Exton (2017) Large-scale invasion of western Atlantic mesophotic reefs by lionfish potentially undermines culling-based management. Biological Invasions 19:939–954. DOI: 10.1007/s10530-016-1358-0
+
+Lee Eyal-Shaham, **Gal Eyal**, Kazuhiko Sakai, Yoko Nozawa, Saki Harii, Frederic Sinniger, Omri Bronstein, Or Ben-Zvi, Tom Shlesinger, Yossi Loya (2019) Repetitive sex change in the stony coral Herpolitha limax across a wide geographic range. Scientific Reports 9:2936. DOI: 10.1038/s41598-018-37619-y
+
+Or Ben-Zvi, **Gal Eyal**, Yossi Loya (2019) Response of fluorescence morphs of the mesophotic coral Euphyllia paradivisa to ultra-violet radiation. Scientific Reports 9:5245. DOI: 10.1038/s41598-019-41710-3
+
+Hudson T Pinheiro, **Gal Eyal**, Bart Shepherd, Luiz A Rocha (2019) Ecological insights from environmental disturbances in mesophotic coral ecosystems. Ecosphere 10:e02666. DOI: 10.1002/ecs2.2666
+
+Yoav Lindemann, **Gal Eyal**, Amatzia Genin (2019) Intense capture of swarming pteropods by large-polyp corals. Galaxea, Journal of Coral Reef Studies 21:9-10. DOI: 10.3755/galaxea.21.1_9
+
+Dalit Meron, Keren Maor-Landaw, Eviatar Weizman, Hiba Waldman Ben-Asher, **Gal Eyal**, Ehud Banin, Yossi Loya, Oren Levy (2019) The Algal Symbiont Modifies the Transcriptome of the Scleractinian Coral Euphyllia paradivisa During Heat Stress. Microorganisms 7:256. DOI: 10.3390/microorganisms7080256
+
+Raz Tamir, **Gal Eyal**, Netanel Kramer, Jack H. Laverick, Yossi Loya (2019) Light environment drives the shallow-to-mesophotic coral community transition. Ecosphere 10:e02839. DOI: 10.1002/ecs2.2839
+
+Inigo Alonso, Matan Yuval, **Gal Eyal**, Tali Treibitz, Ana C. Murillo (2019) CoralSeg: Learning Coral Segmentation from Sparse Annotations. Journal of Field Robotics 36:1456–1477. DOI: 10.1002/rob.21915
+
+Pim Bongaerts, Gonzalo Perez-Rosales, Veronica Z. Radice, **Gal Eyal**, Andrea Gori, Erika Gress, Nicholas Hammerman, Alejandra Hernandez-Agreda, Jack Laverick, Paul Muir, Hudson Pinheiro, Richard Pyle, Luiz Rocha, Joseph A. Turner, Ryan Booker (2019) Mesophotic.org: a repository for scientific information on mesophotic ecosystems. Database: The Journal of Biological Databases and Curation 2019:baz140. DOI: 10.1093/database/baz140
+
+Raz Tamir, **Gal Eyal**, Itay Cohen, Yossi Loya (2020) Effects of light pollution on the early life stages of the most abundant northern Red Sea coral. Microorganisms 8:193. DOI: 10.3390/microorganisms8020193
+
+Dalit Meron, Keren Maor-Landaw, **Gal Eyal**, Hila Elifantz, Ehud Banin, Yossi Loya, Oren Levy (2020) The complexity of the holobiont in the Red Sea coral Euphyllia paradivisa under heat stress. Microorganisms 8:372. DOI: 10.3390/microorganisms8030372
+
+Or Ben-Zvi, Raz Tamir, Nir Keren, Dan Tchernov, Ilana Berman-Frank, Yuval Kolodny, Tal Benaltabet, Harel Bavli, Mor Friedman, Noga Glanz-Idan, Hadar Traugott, Yossi Loya, **Gal Eyal** (2020) Photophysiology of a mesophotic coral 3 years after transplantation to a shallow environment. Coral Reefs (in press) DOI: 10.1007/s00338-020-01910-0

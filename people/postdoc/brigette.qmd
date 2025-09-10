@@ -1,0 +1,79 @@
+---
+title: "Brigitte Sommer"
+image: "brigitte.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: brigitte.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:brigitte.sommer@sydney.edu.au
+---
+
+### Education
+
+PhD in Quantitative Ecology – The University of Queensland & ARC Centre of Excellence for Coral Reef Studies
+
+First-class Honours in Coral Reef Ecology – Southern Cross University
+
+Master of Marine Science and Management – University of New England
+
+Master of Environmental Management – University of New England
+
+Master and Bachelor of Commerce and Economics – Vienna University of Economics and Business
+
+---
+
+### Research interests
+
+Marine community ecology, biogeography, factors and processes that drive biodiversity patterns, species range limits, biogeographic transition zones, theoretical and quantitative ecology
+
+---
+
+### Current research
+
+*Ecological dynamics at biogeographic transition zones*
+
+Ecosystems at the transition of biogeographical zones are projected to undergo multidimensional changes through altered patterns of survivorship and dispersal and shifts in the distribution and abundances of species, many of which are at the margins of their biogeographic ranges and environmental tolerances. The subtropical-to-temperate transition zones in eastern Australia and Japan harbour a unique combination of tropical, subtropical and temperate taxa, including corals at their high-latitude range limits. Primarily non-reefal coral communities occur in pockets of suitable habitat and extend to high latitudes. They are regarded as potential refuge habitats for tropical species as they become threatened by global warming, however increased ecological understanding of the mechanism that structure them is required before these and similar questions can be properly assessed. My research aims to address some of these knowledge gaps. I use a combination of primary data collection, trait-based, phylogenetic community ecology and statistical modelling approaches to investigate ecological dynamics at biogeographic transition zones in Australia and Japan.
+
+---
+
+### Selected publications
+
+Kim S.W., Sampayo E., **Sommer B.**, Sims C., Gómez-Cabrera M., Dalton S., Beger M., Malcolm H., Ferrari R., Fraser N., Figueira W., Smith S.D.A., Heron S., Baird A., Byrne M., Eakin M., Edgar G., Hughes T., Kyriacou N., Liu G., Matis P., Skirving W., Pandolfi J.M. (2019) Refugia under threat: mass bleaching of coral assemblages in high-latitude eastern Australia. Global Change Biology. DOI:10.1111/gcb.14772
+
+Darling ES, McClanahan TR, Maina JM, Gurney GA, Graham NAJ, Januchowski-Hartley F, Cinner JE, Mora C, Hicks CC, Maire E, Puotinen M, Skirving WJ, Adjeroud M, Ahmadia G, Arthur R, Bauman A, Beger M, Berumen M, Bigot L, Bouwmeester J, Brenier A, Bridge T, Brown E, Campbell S, Cannon S, Cauvin B, Chen C, Claudet J, Denis V, Donner S, Estradivari E, Fadli N, Feary D, Fenner D, Fox H, Franklin E, Friedlander A, Gilmour J, Goiran C, Guest J, Hobbs J, Hoey A, Houk P, Johnson S, Jupiter S, Kayal M, Kuo C, Lamb J, Lee M, Low J, Muthiga N, Muttaqin E, Nand Y, Nash K, Nedlic O, Pandolfi J, Pardede S, Patankar V, Penin L, Ribas-Deulofeu L, Richards Z, Roberts T, Rodgers K, Safuan C, Sala E, Shedrawi G, Sin T, Smallhorn-West P, Smith J, **Sommer B**, Steinberg P, Sutthacheep M, Tan C, Vargas-Angel B, Williams G, Wilson S, Yeemin T, Bruno JF, Fortin MJ, Krkosek M and D Mouillot. (2019). Social-environmental drivers inform strategic management of coral reefs in the Anthropocene. Nature Ecology and Evolution. DOI:10.1038/s41559-019-0953-8
+
+Pandolfi J.M, Lybolt T., **Sommer B.**, Narayan R., Rachello-Dolmen P. (2019). Protected: Coral and micro-benthic assemblages from reef habitats in Moreton Bay. In Tibbetts, I.R., Rothlisberg, P.C., Neil, D.T., Homburg, T.A., Brewer, D.T., & Arthington, A.H. (Editors). Moreton Bay Quandamooka & Catchment: Past, present, and future. The Moreton Bay Foundation. Brisbane, Australia. https://moretonbayfoundation.org
+
+**Sommer B.**, Fowler A., Macreadie P.I., Palando D.A., Aziz A.C., Booth D.J. (2019) Decommissioning of offshore oil and gas structures–Environmental opportunities and challenges. Science of The Total Environment, 658, 973-981.
+
+**Sommer B.**, Beger M., Harrison P.L., Babcock R.C., Pandolfi J.M. (2018). Differential response to abiotic stress drives species distributions at biogeographic transition zones. Ecography. DOI 10.1111/ecog.02986.
+
+Precoda K., Baird A., Madsen A., Mizerek T., **Sommer B.**, Sheena S., Madin J. S. (2018). How does a widespread reef coral maintain populations in isolated environments? Marine Ecology Progress Series, 594, 85-94.
+
+**Sommer B.**, Sampayo E.M., Beger M., Harrison P.L., Babcock R.C., Pandolfi J.M. (2017). Local and regional controls of phylogenetic structure at the high-latitude range limits of corals. Proceedings of the Royal Society B: Biological Sciences. DOI 10.1098/rspb.2017.0915.
+
+Hughes T.P., Kerry J.T., Álvarez-Noriega M., Álvarez-Romero J.G., Anderson K.D., Baird A.H., Babcock R.C., Beger M., Bellwood D.R., Berkelmans R., Bridge T.C., Butler I., Byrne M., Cantin N.L., Comeau S., Connolly S.R., Cumming G.S., Dalton S.J., Diaz-Pulido G., Eakin M.C., Figueira W.F., Gilmour J.P., Harrison H.B., Heron S.F., Hoey A.S., Hobbs J.A., Hoogenboom M.O., Kennedy E.V., Kuo C-Y., Lough J.M., Lowe R.J., Liu G., McCulloch M.T., Malcolm H.A., McWilliam M.J., Pandolfi J.M., Pears R.J., Pratchett M.S., Schoepf V., Simpson T., Skirving W.J., **Sommer B.**, Torda G., Wachenfeld D.R., Willis B.L. and Wilson S.K. (2017) Global warming and recurrent mass bleaching of corals. Nature, 543: 373-377.
+
+Madin J.S., Allen A.P., Baird A.H., Pandolfi J.M., **Sommer B.** (2016). Scope for latitudinal extension of reef corals is species specific. Frontiers of Biogeography, 8(1)
+
+Butler I. R., **Sommer B.**, Zann M., Zhao J-X., Pandolfi J.M. (2015). The cumulative impacts of repeated heavy rainfall, flooding and altered water quality on the high-latitude coral reefs of Hervey Bay, Queensland, Australia. Marine Pollution Bulletin, 96:356–367
+
+**Sommer B.**, Harrison P. L., Beger M., Pandolfi J.M. (2014). Trait-mediated environmental filtering drives assembly at biogeographic transition zones. Ecology, 95(4):1000–1009.
+
+Beger M., **Sommer B.**, Harrison P. L. , Smith S. D. A., Pandolfi J.M. (2014). Conserving potential coral reef refugia at high latitudes. Diversity and Distributions, 20(3):245-257.
+
+Scheffers A. M., Engel M., May S. M., Scheffers S. R., Joannes-Boyau R., Hänssler E., Kennedy K., Kelletat D., Brückner H., Vött A., Schellmann G., Schäbitz F., Radtke U., **Sommer B.**, Willershäuser T., Felis T. (2014). Potential and limits of combining studies of coarse- and fine-grained sediments for the coastal event history of a Caribbean carbonate environment. Geological Society, London, Special Publications. Geological Society, London, Special Publications, 388:503-531.
+
+Butler I. R., **Sommer B.**, Zann M.,  Zhao J.-x., Pandolfi J. M. (2013) The impacts of flooding on the high-latitude, terrigenoclastic influenced coral reefs of Hervey Bay, Queensland, Australia. Coral Reefs, 32(4):1149-1163.
+
+Baird A.H., **Sommer B.**, Madin J.S. (2012) Pole-ward range expansion of Acropora spp. along the east coast of Australia. Coral Reefs 31(4):1063
+
+Beger M., Babcock R., Booth D. J., Bucher D., Condie S. A., Creese B., Cvitanovic C., Dalton S. J., Harrison P., Hoey A., Jordan A., Loder J., Malcolm H., Purcell S. W., Roelfsema C. M., Sachs P., Smith S. D. A., **Sommer B.**, Stuart-Smith R., Thomson D., Wallace C. C., Zann M. and Pandolfi J. M. (2011) Research challenges to improve the management and conservation of subtropical reefs to tackle climate change threats. Ecological Management and Restoration 12(1):e7-e10
+
+**Sommer B.**, Harrison P.L., Brooks, L., Scheffers S.R. (2011) Coral community decline at Bonaire, Southern Caribbean. Bulletin of Marine Science 87(3):541–565
+
+**Sommer B.**, Harrison P.L., Scheffers S.R. (2010) Aggressive colonial ascidian impacting deep coral reefs at Bonaire, Netherlands Antilles. Coral Reefs 29(1):245

@@ -1,0 +1,44 @@
+---
+title: "name"
+image: "photofileext"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: photofileext
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:email
+    - icon: globe
+      text: Website
+      href: webaddress
+---
+
+bio
+
+---
+
+### Education
+
+---
+
+### Research interests
+
+---
+
+### Current research
+
+*Project title*
+
+text
+
+---
+
+### Professional associations
+
+---
+
+### Selected publications
+
+separate with a line break, and bolden the person's name

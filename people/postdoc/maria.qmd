@@ -1,0 +1,82 @@
+---
+title: "Maria Beger"
+image: "maria.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: maria.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:M.Beger@leeds.ac.uk
+    - icon: globe
+      text: University of Leeds
+      href: https://biologicalsciences.leeds.ac.uk/school-of-biology/staff/24/dr-maria-beger
+---
+
+### Education
+
+PhD – University of Queensland
+
+MSc in Marine Resource Development and Protection –  Heriot Watt University, Scotland
+
+Dipl.Ing in Groundwater Engineering – University of Technology Dresden, Germany
+
+---
+
+### Research interests
+
+Seasonal dynamics of subtropical reefs
+
+Conservation and management prioritisation in tropical marine environments
+
+Dispersal connectivity in conservation
+
+Managing subtropical and temperate reefs for climate change
+
+---
+
+### Current research
+
+*Reef communities and their conservation on the tropical – temperate latitudinal gradient: Japan*
+
+In collaboration with J.D. Reimer at the University of the Ryukyus and many other colleagues in Japan and Australia, I am interested in finding commonalities and differences in transitional reef communities between the northern and the southern hemisphere.  In June/ July 2015, we are in the field collecting data, ranging from Tateyama (~35 deg N) to Iriomote Island (~23 deg N), with a team of 5 including Brigitte!
+
+*Ecological dynamics and conservation of subtropical coral reef communities of east Australia in changing climate*
+
+This project aims to benchmark and conserve the dynamics of subtropical reefs; personally I am biased towards fishes and changes in their functional roles along the latitudinal gradient.  Highly connected to their neighbouring tropical coral reefs, high-latitude subtropical reefs host transitional communities characterised by a biogeographical overlap of tropical, subtropical and temperate species. They occur in distinct marine ecoregions as shown in this map.
+
+In collaboration with John Pandolfi and Brigitte Sommer, I examine seasonal changes in communities of fishes, benthos and invertebrates on subtropical reefs from the Southern GBR to central NSW.
+
+Subtropical reefs are threatened by both a changing climate and urbanisation. Their role as potential refugia for tropical species gives them high conservation and management priority, but conservation decisions are still hampered by our lack knowledge about them, and how to use it.  In a workshop of subtropical reef researchers and managers in August 2010 we identified [seven research priorities](www.susra.org) for subtropical reefs to enhance their conservation under climate change.
+
+---
+
+### Selected publications
+
+**Beger, M.**, Sommer, B., Harrison, P.L., Smith, S.D.A. & Pandolfi, J.M. (2014). Conserving potential coral reef refugia at high latitudes. Diversity and Distributions, 20, 245-257.
+
+Makino, A., Yamano, H., **Beger, M.**, Klein, C.J., Yara, Y. & Possingham, H.P. (2014). Spatio-temporal marine conservation planning to support high-latitude coral range expansion under climate change. Diversity and Distributions, 2014, 6-12.
+
+**Beger, M.**, Selkoe, K.A., Treml, E., Barber, P.H., von der Heyden, S., Crandall, E.D. et al. (2014). Evolving coral reef conservation with genetic information. Bulletin of Marine Science, 90, 159-185.
+
+Sommer, B., Harrison, P.L., **Beger, M.** & Pandolfi, J.M. (2014). Trait-mediated environmental filtering drives assembly at biogeographic transition zones. Ecology, 95, 1000-1009
+
+Lukoschek, V., **Beger, M.**, Ceccarelli, D., Richards, Z.T. & Pratchett, M.S. (2013). Enigmatic declines of Australia’s sea snakes from a biodiversity hotspot. Biological Conservation.
+
+**Beger, M.**, R. Babcock, D. J. Booth, D. Bucher, S. A. Condie, B. Creese, C. Cvitanovic, S. J. Dalton, P. Harrison, A. Hoey, A. Jordan, J. Loder, H. Malcolm, S. W. Purcell, C. Roelfsma, P. Sachs, S. D. A. Smith, B. Sommer, R. Stuart-Smith, D. Thomson, C. C. Wallace, M. Zann, and J. M. Pandolfi. 2011. Research challenges to improve the management and conservation of subtropical reefs to tackle climate change threats. Ecological Management & Restoration 12:e7-e10.
+
+Baker N., **Beger M.**, McClennen C., Ishoda A. and Edwards F. (2011) Reimaanlok: A national framework for conservation area planning in the Marshall Islands. Journal of Marine Biology Article ID 273034, 11 pages, doi:10.1155/2011/273034.
+
+Kininmonth, S., M. **Beger, M.** Bode, E. Peterson, V. M. Adams, D. Dorfman, D. R. Brumbaugh, and H. P. Possingham. 2011. Dispersal connectivity and reserve selection for marine conservation. Ecological Modelling 222:1272-1282.
+
+**Beger M.**, Simon L., Game E., Ball I., Treml E., Watts M. and Possingham H. P. (2010) Incorporating functional ecological connectivity into spatial decision making for conservation. Conservation Letters 3, 359–368.
+
+**Beger M.**, Grantham H., Pressey R.L., Wilson K.A., Peterson E.L., Dorfman D., Mumby P.J., Lourival R., Brumbaugh D.R. & Possingham H.P. (2010). Conservation planning for connectivity across marine, freshwater, and terrestrial realms. Biological Conservation, 143, 565-575.
+
+**Beger, M.**, and H. P. Possingham. (2008) Environmental factors that influence the distribution of coral reef fishes: modelling occurrence data for broad-scale conservation and management. doi: 10.3354/meps07481. Marine Ecology Progress Series 361: 1-13.
+
+**Beger M.**, McKenna S.A. and Possingham H.P. (2007). Effectiveness of surrogate taxa in the design of coral reef reserve systems in the Indo-Pacific. doi:10.1111/j.1523-1739.2007.00795.x. Conservation Biology 21: 1584–1593
+
+Gerber L.R., **Beger M.**, McCarthy M.A., Possingham H.P. (2005) A theory for optimal monitoring of marine reserves. Ecology Letters 8:829-837

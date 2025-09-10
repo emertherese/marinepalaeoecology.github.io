@@ -1,0 +1,72 @@
+# This file controls the settings for your Quarto template. Modified from www.marvinschmitt.com
+
+# website settings
+website:
+  title: "Marine Palaeoecology Lab"
+  description: "Professor John Pandolfi's lab at The University of Queensland, Magandjin"
+  image: images/logo-full.png
+  
+  favicon: images/logo-profile-zoom.png
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    logo: /images/logo-profile-zoom.png
+    
+    # your sub-pages
+    left:
+      - text: "Research"
+        href: research/index.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "Publications"
+        href: publications.qmd
+    
+    # your social media handles
+    right:
+      - icon: globe
+        href: https://environment.uq.edu.au/profile/22976/john-pandolfi
+      - icon: envelope
+        aria-label: email
+        href: "mailto:j.pandolfi@uq.edu.au"  
+      - icon: github
+        href: https://github.com/marine-palaeo-lab
+  
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    left: |
+      <span class="faux-block">&#169; 2025 Marine Palaeoecology Lab</span>
+    right: |
+      <span class="faux-block">We live and work on Aboriginal Country in Magandjin.</span>
+
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: false
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - default # 
+      - html/styles.scss
+    toc: false
+    code-link: true
+    link-external-newwindow: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

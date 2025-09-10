@@ -1,0 +1,39 @@
+---
+title: "Morana Mihaljević"
+image: "morana.jpg"
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image: morana.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:m.mihaljevic@uq.edu.au
+---
+
+### Research interests
+
+- Evolutionary diversity patterns of marine invertebrates
+- Taxonomy and phylogeny of marine invertebrates
+- Biogeographical patterns in a macroevolutionary context
+
+---
+
+### Current research
+
+- Eocene-Pliocene evolution of coral reefs in the Central Indo-Pacific: study of taxonomic and functional diversities
+- Latitudinal discontinuity in coral symbioses and its potential to limit species movements under climate change
+- Echinoids in archeological record: case study from Molokai, Hawaii
+
+---
+
+### Selected publications
+
+Madden, R. H. C., Wilson, M. E. J., **Mihaljević, M.**, Pandolfi, J. M. & Welsh, K. J. Unravelling the depositional origins and diagenetic alterations of carbonate breccias: the Batu Gading Limestone of Borneo. Accepted in Sedimentary Geology.
+
+**Mihaljević, M.**, Renema, W., Welsh, K. J. & Pandolfi, J. M. 2014 Eocene-Miocene shallow-water carbonate platforms and increased habitat diversity in Sarawak, Malaysia. PALAIOS, 27(3): 378-391.
+
+**Mihaljević, M.**, Jerjen, I. &  Smith, A. 2011. The test architecture of Clypeaster (Echinoidea, Clypeasteroida) and its phylogenetic significance. ZooTaxa, 2983: 21-38.
+
+**Mihaljević, M.**, Klug, C., Aguilera, O., Wyss, P., Lüthi, T. & Sánchez-Villagra, M.R. 2010. Venezuelan echinoids: their fossil record and new material from the Neogene. Palaeontologia Electronica, 13(3), 13.3.20A.
