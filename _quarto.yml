@@ -3,14 +3,15 @@
 # website settings
 website:
   title: "Marine Palaeoecology Lab"
-  description: "Professor John Pandolfi's lab at The University of Queensland, Magandjin"
+  description: "Professor John Pandolfi's lab at The University of Queensland (UQ), Magandjin"
   
   favicon: images/logo-profile-zoom.png
   
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /images/logo-profile-zoom.png
+    title-block-banner: "images/logo-emer-photo.png"
+    logo: /images/logo-profile-zoom-blue.png
     
     # your sub-pages
     left:

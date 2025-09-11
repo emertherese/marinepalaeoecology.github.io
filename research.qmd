@@ -10,6 +10,8 @@ Our lab has studied marine ecological change from deep time through to contempor
 
 <img src="research/palaeoecology.jpg" style="height: 100%; width: 100%; object-fit: contain"/>
 
+<!-- <a href="URL-LINK" target="_blank">LINKED-WORDS-ON-SITE</a> | <a href="URL-LINK" target="_blank">LINKED-WORDS-ON-SITE</a><br> -->
+
 ## Historical ecology
 
 <img src="research/historical-ecology.jpg" style="height: 100%; width: 100%; object-fit: contain"/>
