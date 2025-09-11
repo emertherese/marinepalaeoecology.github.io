@@ -13,6 +13,9 @@ about:
     - icon: globe
       text: UQ Profile
       href: https://cbcs.centre.uq.edu.au/profile/2781/emer-cunningham
+    - icon: github
+      text: GitHub
+      href: https://github.com/emertherese
 ---
 
 I am a PhD student working with Professor John Pandolfi and Dr Timothy Staples. I joined the Marine Palaeoecology lab in June 2019 as a Winter Research Scholar, working with PhD student Carolina Chong-Montenegro to reconstruct historical fisheries records of species along the Queensland coast. Since then, I remained in the lab as a volunteer researcher. Concurrent with my undergraduate degree, I worked independently and collaboratively on a range of projects across multiple disciplines including historical ecology, marine biology, and geology.

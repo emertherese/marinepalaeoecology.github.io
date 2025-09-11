@@ -14,20 +14,21 @@ listing:
     contents: "people/postdoc/*.qmd"
     type: grid
     image-height: 230px
-    max-description-length: 100
+    max-description-length: 90
     sort: "alphabetical"
   - id: profile-phd
     contents: "people/phd/*.qmd"
     type: grid
     page-size: 24
     image-height: 230px
-    max-description-length: 100
+    max-description-length: 90
     sort: "alphabetical"
   - id: profile-honours
     contents: "people/honours/*.qmd"
     type: grid
     image-height: 230px
-    max-description-length: 100
+    image-placeholder: "people/postdoc/default.jpg"
+    max-description-length: 90
     sort: "alphabetical"
 ---
 
