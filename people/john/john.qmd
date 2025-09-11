@@ -17,9 +17,13 @@ about:
 
 My research investigates long-term ecological and environmental time series data over broad spatial scales to discover the major past and predicted future influences of natural variability, human impact, and climate change on coral reef resilience. This research program enables direct linkage among physical variables and biological responses, attempts to parse out the effects of human versus natural variability, provide natural baselines with which managers can use to place restoration goals in context, unveils processes that contribute to the resilience of coral reefs over long time frames and changing environmental conditions, and fosters a deep temporal perspective of the role of climate change in coral reef ecology.
 
+---
+
 ### Research interests
 
 Ecological dynamics of coral reef ecosystems over broad spatial and temporal scales.
+
+---
 
 ### Current research
 
@@ -33,12 +37,16 @@ Ecological dynamics of coral reef ecosystems over broad spatial and temporal sca
 - Linking marine biotic evolution and carbonate platform development in the South China Sea (Sarawak, Malyasia; Phillippines)
 - Historical ecology of the coral reefs of Hervey Bay, Queensland
 
+---
+
 ### Professional associations
 
 - The Paleontological Society
 - International Society for Reef Studies
 - President of the Australian Coral Reef Society (ACRS)
 - International Association on Fossil Cnidaria (University of California-Davis)
+
+---
 
 ### Selected publications
 

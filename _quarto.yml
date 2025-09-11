@@ -24,7 +24,7 @@ website:
     
     # your social media handles
     right:
-      - icon: globe
+      - text: "![](images/uq-logo-transparent.png){height=1.3em}"
         href: https://environment.uq.edu.au/profile/22976/john-pandolfi
       - icon: envelope
         aria-label: email

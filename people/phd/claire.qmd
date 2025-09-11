@@ -11,7 +11,7 @@ about:
       text: Email
       href: mailto:claire.reymond@sydney.edu.au
     - icon: globe
-      text: Website
+      text: Geocoastal Profile
       href: https://grgusyd.org/claire-reymond/
 ---
 

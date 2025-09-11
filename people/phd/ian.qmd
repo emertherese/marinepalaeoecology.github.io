@@ -10,17 +10,6 @@ about:
     - icon: envelope
       text: Email
       href: mailto:ian.butler@uqconnect.edu.au
-    - icon: globe
-      text: Website
-      href: webaddress
----
-
-### Education
-
-MSc in Biology (Marine Biology) – James Cook University
-
-BSc in Biology – James Cook University
-
 ---
 
 ### Research interests
@@ -32,6 +21,14 @@ Palaeoecology of coral reefs, turbid reef environments, sediment impacts on reef
 ### Current research
 
 Historical ecology of the coral reefs of Hervey Bay, Queensland
+
+---
+
+### Education
+
+MSc in Biology (Marine Biology) – James Cook University
+
+BSc in Biology – James Cook University
 
 ---
 

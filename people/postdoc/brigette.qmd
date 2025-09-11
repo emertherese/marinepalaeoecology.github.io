@@ -12,20 +12,6 @@ about:
       href: mailto:brigitte.sommer@sydney.edu.au
 ---
 
-### Education
-
-PhD in Quantitative Ecology – The University of Queensland & ARC Centre of Excellence for Coral Reef Studies
-
-First-class Honours in Coral Reef Ecology – Southern Cross University
-
-Master of Marine Science and Management – University of New England
-
-Master of Environmental Management – University of New England
-
-Master and Bachelor of Commerce and Economics – Vienna University of Economics and Business
-
----
-
 ### Research interests
 
 Marine community ecology, biogeography, factors and processes that drive biodiversity patterns, species range limits, biogeographic transition zones, theoretical and quantitative ecology
@@ -37,6 +23,20 @@ Marine community ecology, biogeography, factors and processes that drive biodive
 *Ecological dynamics at biogeographic transition zones*
 
 Ecosystems at the transition of biogeographical zones are projected to undergo multidimensional changes through altered patterns of survivorship and dispersal and shifts in the distribution and abundances of species, many of which are at the margins of their biogeographic ranges and environmental tolerances. The subtropical-to-temperate transition zones in eastern Australia and Japan harbour a unique combination of tropical, subtropical and temperate taxa, including corals at their high-latitude range limits. Primarily non-reefal coral communities occur in pockets of suitable habitat and extend to high latitudes. They are regarded as potential refuge habitats for tropical species as they become threatened by global warming, however increased ecological understanding of the mechanism that structure them is required before these and similar questions can be properly assessed. My research aims to address some of these knowledge gaps. I use a combination of primary data collection, trait-based, phylogenetic community ecology and statistical modelling approaches to investigate ecological dynamics at biogeographic transition zones in Australia and Japan.
+
+---
+
+### Education
+
+PhD in Quantitative Ecology – The University of Queensland & ARC Centre of Excellence for Coral Reef Studies
+
+First-class Honours in Coral Reef Ecology – Southern Cross University
+
+Master of Marine Science and Management – University of New England
+
+Master of Environmental Management – University of New England
+
+Master and Bachelor of Commerce and Economics – Vienna University of Economics and Business
 
 ---
 

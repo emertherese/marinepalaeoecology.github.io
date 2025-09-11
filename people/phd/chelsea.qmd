@@ -15,18 +15,6 @@ about:
       href: https://scholar.google.com/citations?user=UnZrYvgAAAAJ&hl=en
 ---
 
-### Education
-
-PhD Biological Sciences – The University of Queensland, Australia
-
-MSc Geology – University of North Carolina Wilmington, USA
-
-BA Geology – Cornell College, USA
-
-BA Studio Art – Cornell College, USA
-
----
-
 ### Research interests
 
 Temporal and spatial trends in biodiversity (compositional, functional) and ecological assembly
@@ -52,6 +40,18 @@ The Middle – Late Pleistocene (~1.0 – 0.01 Ma) climate is characterized by t
 Overall, this thesis identified long-term ecological trends in shallow-water coral ecosystem development and deep-water coral diversity and distribution in relation to local, regional, and or global environmental variables during the Middle – Late Pleistocene, when the amplitude of glacial-interglacial cycles were intensifying into the modern climate regime. These results provide new insights to the natural variability of coral ecosystems and their capacity to respond to environmental conditions or changes operating on local to global scales. Such knowledge may improve our predictions about the future of coral ecosystems and their ability to cope with current and anticipated environmental changes.
 
 Supervisors: Prof John M. Pandolfi (UQ), Dr Kevin Welsh (UQ)
+
+---
+
+### Education
+
+PhD Biological Sciences – The University of Queensland, Australia
+
+MSc Geology – University of North Carolina Wilmington, USA
+
+BA Geology – Cornell College, USA
+
+BA Studio Art – Cornell College, USA
 
 ---
 

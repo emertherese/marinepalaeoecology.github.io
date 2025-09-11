@@ -15,16 +15,6 @@ about:
       href: https://experts.exeter.ac.uk/26526-ruth-thurstan
 ---
 
-### Education
-
-PhD in Historical Marine Ecology – University of York, UK
-
-MSc in Marine Environmental Management – University of York, UK
-
-BSc in Marine Biology – University of Liverpool, UK
-
----
-
 ### Research interests
 
 - Historical ecology
@@ -36,6 +26,16 @@ BSc in Marine Biology – University of Liverpool, UK
 ### Current research
 
 Historical ecology of Australian marine mega-fauna and fisheries
+
+---
+
+### Education
+
+PhD in Historical Marine Ecology – University of York, UK
+
+MSc in Marine Environmental Management – University of York, UK
+
+BSc in Marine Biology – University of Liverpool, UK
 
 ---
 

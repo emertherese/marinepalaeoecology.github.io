@@ -21,6 +21,8 @@ $pink:    #A52C60 !default;
 $red:     #CF4446 !default;
 $orange:  #EE6A24 !default;
 $light-orange:  #FB9E07 !default;
+$sandy:   #F09832 !default;
+$sandy-dark: #C79763 !default;
 $yellow:  #F6D645 !default;
 $green:   #118230 !default;
 $teal:    #068194 !default;
@@ -40,19 +42,19 @@ $dark:      $black !default;
 // Links
 $link-color: $primary !default;
 $link-decoration: none !default;
-$link-hover-color: $red !default;
+$link-hover-color: $sandy !default;
 $link-hover-decoration: underline !default;
 
 // Footer
-$footer-bg: $gray-900 !default;
-$footer-fg: $gray-300 !default;
+$footer-bg: $sandy-dark !default;
+$footer-fg: $gray-900 !default;
 
 // Inline code
 $code-bg: $gray-200 !default;
 $code-color: $gray-900 !default;
 
 // TOC
-$toc-color: $orange;
+$toc-color: $sandy;
 $toc-font-size: 1em;
 
 // Code copy

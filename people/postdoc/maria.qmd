@@ -15,16 +15,6 @@ about:
       href: https://biologicalsciences.leeds.ac.uk/school-of-biology/staff/24/dr-maria-beger
 ---
 
-### Education
-
-PhD – University of Queensland
-
-MSc in Marine Resource Development and Protection –  Heriot Watt University, Scotland
-
-Dipl.Ing in Groundwater Engineering – University of Technology Dresden, Germany
-
----
-
 ### Research interests
 
 Seasonal dynamics of subtropical reefs
@@ -50,6 +40,16 @@ This project aims to benchmark and conserve the dynamics of subtropical reefs; p
 In collaboration with John Pandolfi and Brigitte Sommer, I examine seasonal changes in communities of fishes, benthos and invertebrates on subtropical reefs from the Southern GBR to central NSW.
 
 Subtropical reefs are threatened by both a changing climate and urbanisation. Their role as potential refugia for tropical species gives them high conservation and management priority, but conservation decisions are still hampered by our lack knowledge about them, and how to use it.  In a workshop of subtropical reef researchers and managers in August 2010 we identified [seven research priorities](www.susra.org) for subtropical reefs to enhance their conservation under climate change.
+
+---
+
+### Education
+
+PhD – University of Queensland
+
+MSc in Marine Resource Development and Protection –  Heriot Watt University, Scotland
+
+Dipl.Ing in Groundwater Engineering – University of Technology Dresden, Germany
 
 ---
 

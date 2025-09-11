@@ -12,16 +12,6 @@ about:
       href: mailto:martina.defreitasprazeres@jcu.edu.au
 ---
 
-### Education
-
-PhD in Marine Sciences – The University of Queensland, Australia
-
-MSc in Biological Oceanography – Universidade Federal do Rio Grande – FURG, Brazil
-
-BSc in Marine Biology – Universidade Federal Fluminense, Brazil
-
----
-
 ### Research interests
 
 Benthic foraminifera ecology and palaeoecology, physiological and morphological responses to water quality and climate change, use of benthic foraminifera as bioindicators of water quality, molecular tools to detect cryptic species on the Great Barrier Reef, symbiont and microbial community across depth and shelf gradients
@@ -43,6 +33,16 @@ Analysis of benthic foraminiferal communities over a 300 years period (from ~170
 This study demonstrated that photosymbiont-bearing foraminifera are sensitive to localised declines in water quality, as well as the effects of global climate change, but those populations that are naturally adapted to variable conditions are able to acclimate to shifts in environmental conditions by regulating biochemical functions within and above their threshold of tolerance. As a result, foraminifera populations from inshore reefs that are chronically subjected to inputs of terrestrial runoff are able to persist through time, whereas populations adapted to more stable, oligotrophic conditions are likely to experience shifts in species composition, from communities dominated by photosymbiont-bearing taxa, to communities abundant in heterotrophic/stress-tolerant species.
 
 Supervisors: Prof John M. Pandolfi (UQ), Prof Jian-xin Zhao (UQ) & Dr Sven Uthicke (AIMS)
+
+---
+
+### Education
+
+PhD in Marine Sciences – The University of Queensland, Australia
+
+MSc in Biological Oceanography – Universidade Federal do Rio Grande – FURG, Brazil
+
+BSc in Marine Biology – Universidade Federal Fluminense, Brazil
 
 ---
 

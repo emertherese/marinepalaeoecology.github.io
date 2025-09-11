@@ -15,18 +15,6 @@ about:
       href: https://www.researchgate.net/profile/Sharad-Bayyana
 ---
 
-### Education
-
-Post-doctoral Research Fellow, The Pennsylvania State University, USA, 2010
-
-Post-doctoral Research Fellow, The University of Queensland, Australia, 2008
-
-PhD, “Diversity and Ecology of Symbiodinium in pocilloporid corals”, The University of Queensland, Australia, 2007
-
-MSc, “Reproduction and speciation in the coral genus Madracis“, The University of Groningen, Netherlands, 2000
-
----
-
 ### Research interests
 
 Symbiosis ecology, bio-geography and evolution. Environmental tolerance ranges and specificity of larval and juvenile corals. Adaptation in reef corals, and species range shifts.
@@ -39,7 +27,19 @@ Climate change is predicted to drive tropical reef corals towards high latitude 
 
 ---
 
-### Publications
+### Education
+
+Post-doctoral Research Fellow, The Pennsylvania State University, USA, 2010
+
+Post-doctoral Research Fellow, The University of Queensland, Australia, 2008
+
+PhD, “Diversity and Ecology of Symbiodinium in pocilloporid corals”, The University of Queensland, Australia, 2007
+
+MSc, “Reproduction and speciation in the coral genus Madracis“, The University of Groningen, Netherlands, 2000
+
+---
+
+### Selected publications
 
 **Sampayo EM**, Roff G, Sims C, Rachello-Dolmen P, Pandolfi JM (2020). Patch size drives settlement success and spatial distribution of coral larvae under space limitation. Coral Reefs, 39:387.
 

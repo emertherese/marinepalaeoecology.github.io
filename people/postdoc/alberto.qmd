@@ -12,12 +12,6 @@ about:
       href: mailto:alberto.rodriguez@uq.edu.au
 ---
 
-### Education
-
-BSc in Marine Biology, Universidad Jorge Tadeo Lozano, Colombia
-
----
-
 ### Research interests
 
 Historical ecology on coral reefs
@@ -29,6 +23,12 @@ Historical ecology on coral reefs
 *Historical analysis of disturbances to coral reefs in the Southern Great Barrier Reef: Linking processes of growth and mortality to environmental factors.*
 
 Principal Advisor Prof Jian-xin Zhao; Associate Advisor: Dr Ke-fu Yu (UQ), Associate Advisor: Prof John M. Pandolfi (UQ).
+
+---
+
+### Education
+
+BSc in Marine Biology, Universidad Jorge Tadeo Lozano, Colombia
 
 ---
 

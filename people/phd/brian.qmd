@@ -10,9 +10,6 @@ about:
     - icon: envelope
       text: Email
       href: mailto:brian.beck@noaa.gov
-    - icon: globe
-      text: Website
-      href: webaddress
 ---
 
 ### Current research
