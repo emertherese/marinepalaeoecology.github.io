@@ -4,6 +4,6 @@ title: "Publications"
 
 Here, we list some of our peer-reviewed papers from 2020-1983.
 
-*Last updated in 2020* -- come back soon for an updated list of publications from Marine Palaeoecology Lab. 
+*Last updated in 2020 -- come back soon for an updated list of publications from Marine Palaeoecology Lab.*
 
 <embed src="publications/publications-from-archive-website.pdf" width="100%" height="1000px" type="application/pdf">
