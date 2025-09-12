@@ -1,5 +1,4 @@
 ---
-title: Welcome!
 about:
   template: marquee
   id: about-main-block
@@ -16,6 +15,12 @@ about:
 ::: {#about-main-block}
 
 **Welcome to Professor John Pandolfi's lab at The University of Queensland (UQ), Magandjin.**
+
+::: {.callout-warning}
+## Please note: You are reading an archival website
+
+We created this website to host information from our previous `marinepalaeoecology.org` website. We moved all information in September 2025.
+:::
 
 In the Marine Palaeoecology Lab, we investigate the effects of natural and anthropogenic climate change, as well as other anthropogenic stressors, on tropical coral reef and sub-tropical habitats. We use a number of tools to study marine change across wide ecological and temporal scales, encompassing genetic studies, modern ecological field work, historical surveys, and analysis of fossil assemblages.
 
